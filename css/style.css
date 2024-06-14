@@ -1,0 +1,230 @@
+* {
+  font-family: 'Roboto', sans-serif;
+
+}
+
+.navbar{
+  background-color: #1d6e0d40;
+  
+  .nav-link{
+    font-weight: 900;
+  }
+}
+
+#logo {
+  width: 30px;
+  height: auto;
+}
+
+.container-t-st {
+  background-image: url(/images/green-texture.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 47vw;
+  margin-bottom: 2%;
+  box-shadow: 0 6px 6px -2px rgba(0, 2, 4, 0.5);
+
+
+  h1 {
+    color: #2e3140;
+    font-size: 10vw; 
+    letter-spacing: 1.2vw; 
+    line-height: 1.1em; 
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: -5.2vw;
+  }
+
+  h2{
+    color: #f6f7fc;
+    font-size: 2vw; 
+    letter-spacing: 0.9vw; 
+    line-height: 1.1em; 
+    text-align: center;
+    font-weight: 700;
+  }
+
+  /*Estilos Boton para mostrar el mapa*/
+  .button-map{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .button2 {
+    display: inline-block;
+    transition: all 0.2s ease-in;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+    color: #b2cfb4;
+    padding: 0.7em 3.7em;
+    margin-bottom: 2vw;
+    cursor: pointer;
+    font-size: 18px;
+    border-radius: 0.5em 3em;
+    background: #2e3140;
+    border: 1px solid #e8e8e8;
+    box-shadow: 6px 6px 12px #3e5139, -6px -6px 12px #3e5139;
+  }
+  
+  .button2:active {
+    color: #666;
+    box-shadow: inset 4px 4px 12px #c5c5c5, inset -4px -4px 12px #ffffff;
+  }
+  
+  .button2:before {
+    content: "";
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%) scaleY(1) scaleX(1.25);
+    top: 100%;
+    width: 140%;
+    height: 180%;
+    background-color: rgba(0, 0, 0, 0.05);
+    border-radius: 50%;
+    display: block;
+    transition: all 0.5s 0.1s cubic-bezier(0.55, 0, 0.1, 1);
+    z-index: -1;
+  }
+  
+  .button2:after {
+    content: "";
+    position: absolute;
+    left: 55%;
+    transform: translateX(-50%) scaleY(1) scaleX(1.45);
+    top: 180%;
+    width: 160%;
+    height: 190%;
+    background-color: #73a5cb;
+    border-radius: 50%;
+    display: block;
+    transition: all 0.5s 0.1s cubic-bezier(0.55, 0, 0.1, 1);
+    z-index: -1;
+  }
+  
+  .button2:hover {
+    color: #ffffff;
+    border: 1px solid #73a5cb;
+  }
+  
+  .button2:hover:before {
+    top: -35%;
+    background-color: #73a5cb;
+    transform: translateX(-50%) scaleY(1.3) scaleX(0.8);
+  }
+  
+  .button2:hover:after {
+    top: -45%;
+    background-color: #73a5cb;
+    transform: translateX(-50%) scaleY(1.3) scaleX(0.8);
+  }
+  
+
+}
+
+.title-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+  width: auto;
+}
+
+body h3 {
+  color: #255fa2;
+}
+
+/*mapa*/
+.contenedor_map {
+  background-color: rgb(242, 255, 233);
+  width: 100%;
+  margin: auto;
+  box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.3);
+
+}
+
+.contenedor_map h3 {
+  text-align: center;
+  padding-top: 5%;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.contenedor_map path {
+  fill: antiquewhite;
+  stroke: rgb(8, 8, 8);
+  stroke-width: 0.5px;
+}
+
+.contenedor_map :hover {
+  fill: #9fe285;
+}
+
+.container-ecosistemas{
+  display: ;
+  background-image: url(/images/ecosistemas.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100% ;
+  height: 11vw;
+  box-shadow: 6px 6px 6px 6px rgba(0, 2, 4, 0.5);
+
+  h2{
+    color: #f9fff5c4;
+    font-size: 7vw; 
+    letter-spacing: 1.2vw; 
+    line-height: 1.1em; 
+    font-weight: 700;
+    /*margin-bottom: -5.2vw;*/
+  }
+  
+  #container-titulo-eco{
+    
+    align-items:flex-end;
+  }
+
+    p{
+      color: rgba(224, 248, 241, 0.753);
+      
+    }
+
+
+}
+
+#img_ecosistema {
+  border: 2px dotted #62a847;
+  border-radius: 15px;
+  width: 80%;
+  height: 50%;
+}
+
+#eco_section {
+  margin-top: 10%;
+  background-color: #90d176;
+  border-top: 10px solid rgba(150, 223, 14, 0.342);
+}
+
+/* Estilo para la barra de desplazamiento en navegadores webkit */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+/* Estilo para el riel de la barra de desplazamiento */
+::-webkit-scrollbar-track {
+  background-color: #f1f1f1;
+}
+
+/* Estilo para el pulgar de la barra de desplazamiento */
+::-webkit-scrollbar-thumb {
+  background-color: #45c4b0;
+  border-radius: 3px;
+}
+
+#tarjeta{
+  width: 100px;
+  height: 250px;
+  background-color: #255fa2;
+}
