@@ -14,4 +14,10 @@ $(document).ready(function(){
         }
     });
 
+     // Agregar funcionalidad para cerrar el mapa
+     $('.close-button').click(function(){
+        $('#container-mapa').hide();
+    });
+
 });
+
