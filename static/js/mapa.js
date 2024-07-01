@@ -63,30 +63,27 @@ function onEachFeature(feature, layer) {
         mouseout: resetHighlight,
         click: function(e) {
             if (highlightedDepartment) {
-                var url = '../plantillas/departamentos/' + highlightedDepartment.toLowerCase() + '.html';
-                fetch(url, { method: 'HEAD' })
+                var url = '/departamentos/' + highlightedDepartment.toLowerCase();
+                fetch(url)
                     .then(response => {
                         if (response.ok) {
                             window.location.href = url;
                         } else {
-                            if (!alertShown) {
-                                alert('No hay una vista disponible para este departamento.');
-                                alertShown = true; // Marcar la alerta como mostrada
-                            }
+                            alert('No hay una vista disponible para este departamento.');
                         }
                     })
                     .catch(() => {
-                        if (!alertShown) {
-                            alert('No hay una vista disponible para este departamento.');
-                            alertShown = true; // Marcar la alerta como mostrada
-                        }
+                        alert('No hay una vista disponible para este departamento.');
                     });
             }
         }
     });
 }
 
-fetch('../json/Colombia.geo.json')
+
+
+
+fetch('../static/json/Colombia.geo.json')
     .then(response => response.json())
     .then(data => {
         geojson = L.geoJson(data, {

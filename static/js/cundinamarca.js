@@ -1,12 +1,12 @@
 // Coordenadas aproximadas del centro de Boyacá, Colombia
-var boyacaCoordinates = [8.4545, -75.3620];
+var cundinamarcaCoordinates = [4.7110, -78];
 var zoomLevel = 8.5;
 
 // Crear el mapa
 var map = L.map('map', {
-    center: boyacaCoordinates,
+    center: cundinamarcaCoordinates,
     zoom: zoomLevel,
-    maxBounds: [[4.0, -75.0], [7.0, -71.0]],
+    maxBounds: [[3.0, -75.8], [7.0, -71.0]],
     maxBoundsViscosity: 1.0,
     zoomControl: false,
     dragging: false,
@@ -15,6 +15,7 @@ var map = L.map('map', {
     boxZoom: false,
     keyboard: false
 });
+
 
 // Agregar la capa de mapa base de OpenStreetMap
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -81,7 +82,7 @@ function onEachFeature(feature, layer) {
 }
 
 // Cargar los límites municipales desde el archivo GeoJSON
-fetch('../../json/Boyaca.geo.json')
+fetch('../../static/json/Cundinamarca.geo.json')
     .then(response => response.json())
     .then(data => {
         geojson = L.geoJson(data, {

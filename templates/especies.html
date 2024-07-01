@@ -4,8 +4,8 @@
 <head>
     <meta charset='utf-8'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <title>Contacto</title>
-    <link rel="icon" href="../images/logo-biodiversity.png" type="image/x-icon">
+    <title>Especies</title>
+    <link rel="icon" href="../static/images/logo-biodiversity.png" type="image/x-icon">
     <meta name='viewport' content='width=device-width, initial-scale=1'>
 
     <!--Link Bootstrap-->
@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap">
 
     <!-- Links css -->
-    <link rel="stylesheet" href="../css/style.css" asp-append-version="true" />
+    <link rel="stylesheet" href="../static/css/style.css" asp-append-version="true" />
 
     <!-- Links leaflet -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
@@ -34,8 +34,8 @@
 <body>
     <nav class="navbar navbar-expand-lg fixed-top">
         <div class="container-fluid">
-            <a class="navbar-brand" href="../plantillas/inicio.html"><img id="logo"
-                    src="../images/logo-biodiversity.png" alt="Biodiversidad" height="512px" width="512px"></a>
+            <a class="navbar-brand" href="/"><img id="logo"
+                    src="../static/images/logo-biodiversity.png" alt="Biodiversidad" height="512px" width="512px"></a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText"
                 aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -44,16 +44,16 @@
                 <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                     <li class="nav-item">
                         <a class="nav-link active inicio " aria-current="page"
-                            href="../plantillas/inicio.html">Inicio</a>
+                            href="/">Inicio</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="../plantillas/ecosistema.html">Ecosistemas</a>
+                        <a class="nav-link active" href="/ecosistema">Ecosistemas</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="../plantillas/especies.html">Especies</a>
+                        <a class="nav-link active" href="/especies">Especies</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="../plantillas/contacto.html">Contacto</a>
+                        <a class="nav-link active" href="/contacto">Contacto</a>
                     </li>
                 </ul>
             </div>
@@ -63,10 +63,11 @@
     <section class="container-fluid fauna">
         <div class=" text-center container-ecosistemas ">
             <div id="container-titulo-eco">
-                <h2 id="ecosistema">Contacto</h2>
+                <h2 id="ecosistema">Especies</h2>
             </div>
             <div id="container-subtitulo-eco">
-                <p></p>
+                <p>Conoce las especies y la biodiversidad que el departamento de Boyacá y Cundinamarca tiene
+                    para tí.</p>
             </div>
         </div>
         <br><br>
@@ -91,8 +92,8 @@
     <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
 
     <!-- Scripts -->
-    <script src="../js/index.js"></script>
-    <script src="../js/index.js"></script>
+    <script src="../static/js/index.js"></script>
+    <script src="../static/js/index.js"></script>
 </body>
 
 </html>

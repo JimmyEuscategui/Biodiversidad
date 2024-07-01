@@ -16,7 +16,7 @@
 }
 
 .container-t-st {
-  background-image: url(/images/green-texture.jpg);
+  background-image: url(../../static/images/green-texture.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -162,7 +162,7 @@ body h3 {
 }
 
 .container-ecosistemas{
-  background-image: url(/images/ecosistemas.jpg);
+  background-image: url(../../static/images/ecosistemas.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
