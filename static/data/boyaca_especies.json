@@ -1,0 +1,1802 @@
+[
+    {
+        "nombre": "Argiope argentata",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/343894679/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Cyclocephala lunulata",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344186444/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Passiflora manicata",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344527030/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Elanus leucurus",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344646943/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Quiscalus lugubris",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344647537/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Mimus gilvus",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344647907/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Peperomia tetraphylla",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344814970/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Nectandra cuspidata",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344862267/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Heliconius charithonia",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344862718/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Racinaea tenuispica",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344862764/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Calea bucaramangensis",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344862779/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Vriesea myriantha",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344862823/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Tillandsia fendleri",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344862844/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Cyrtochilum revolutum",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344906142/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Gasteracantha cancriformis",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344922269/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Cyanocorax yncas",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344923052/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Acacia melanoxylon",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344996233/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Tyrannus savana",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345000563/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Kohleria tigridia",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345016350/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Cavendishia bracteata",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345016390/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Meriania speciosa",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345069740/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Paracles contraria",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345101090/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Anartia amathea",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345402619/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Palicourea angustifolia",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345412144/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Eryphanis lycomedon",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345436358/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Anartia amathea",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345528603/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Leuciris fimbriaria",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345572485/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Coriaria ruscifolia",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346257145/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Hydriomena multangulata",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346446300/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Passiflora manicata",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346731643/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Pleurothallis gracilipedunculata",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346825067/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Bombus pauloensis",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346768145/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Arcytophyllum thymifolium",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346829470/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Epidendrum ciliare",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346835293/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Lampropeltis micropholis",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/347473555/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Ascalapha odorata",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/347924682/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Chironius monticola",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/348705769/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Ocotea pedicellata",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/348029685/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Nertera granadensis",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/348527103/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Chaetogastra longifolia",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/348637250/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Elephantopus mollis",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/348637321/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Harmonia axyridis",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/348706921/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Urania fulgens",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/348743530/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Chironius spixii",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/348743812/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Chironius spixii",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/348744106/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Bradypus variegatus",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/348744483/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Chaetogastra ciliaris",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/348882419/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Corydalus armatus",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/348900718/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Bothrocophias tulitoi",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/349014709/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Miconia bella",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/349016238/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Pyrrhomyias cinnamomeus",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/349016953/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Munnozia senecionidis",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/349017772/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Passiflora longipes",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/349018565/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Fevillea cordifolia",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/349142932/original.png",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Zonotrichia capensis",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/349229361/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Setophaga pitiayumi",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/349229408/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Ramphocelus carbo",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/349229405/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Stilpnia cyanicollis",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/349229402/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Tachyphonus rufus",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/349229431/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Setophaga fusca",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/349229444/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Sicalis flaveola",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/349229454/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Thraupis palmarum",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/349229473/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Pipra filicauda",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/349667349/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Chlorostilbon poortmani",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352257468/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Ancognatha vulgaris",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352258831/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Pawiloma paramoena",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352262284/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Catharus ustulatus",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352262542/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Argiope argentata",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352262881/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Neda norrisi",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352262882/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Neda norrisi",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352264791/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Neda norrisi",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352264794/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Neda norrisi",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352264861/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Neda norrisi",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352265629/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Xylophanes virescens",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352806338/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Camponotus mus",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/353327521/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Tyto alba",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/354644125/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Harmonia axyridis",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/356260707/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Chauna chavaria",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/364451393/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Stenorrhynchos albidomaculatum",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/382251525/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Kinosternon leucostomum",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/349333188/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Setophaga fusca",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/349522955/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Phobetron hipparchia",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/350049041/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Brentus anchorago",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/350629828/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Melanerpes rubricapillus",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/350633815/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Bomarea multiflora",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/351261725/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Oxyrhopus leucomelas",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/351295135/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Boana lanciformis",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/351634451/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Duranta mutisii",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/351967768/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Amaryllis belladonna",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352321249/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Linochilus phylicoides",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352321374/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Vaccinium floribundum",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352321428/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Arcytophyllum nitidum",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352321483/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Escallonia myrtilloides",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352322040/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Greigia stenolepis",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352322923/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Palicourea aschersonianoides",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352323190/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Drimys granadensis",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352323329/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Monticalia pulchella",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352323981/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Colaptes punctigula",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352325801/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Miconia cleefii",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352453339/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Epidendrum farfanii",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352453778/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Hieracium avilae",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352453952/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Phytolacca bogotensis",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352459300/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Ugni myricoides",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352459763/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Hypericum goyanesii",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352459888/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Epidendrum bogotense",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352461118/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Chaetogastra grossa",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352461301/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Serpophaga cinerea",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352515558/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Actitis macularius",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352515410/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Tringa solitaria",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352515807/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Cedrela montana",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352516865/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Ocotea pedicellata",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/353815698/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Epidendrum fimbriatum",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/353844523/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Persea mutisii",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/353845726/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Chlorornis riefferii",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/353846187/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Vriesea tequendamae",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/353847331/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Guettarda dependens",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/353861235/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Atlapetes semirufus",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/353861935/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Epidendrum chioneum",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/353898204/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Espeletia glandulosa",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/353898603/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Hemidactylus mabouia",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/354587220/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Opuntia soederstromiana",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/354088889/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Tillandsia usneoides",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/354089362/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Zenaida auriculata",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/354089943/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Phoebis philea",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/354090244/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Sicalis flaveola",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/354090416/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Sicalis flaveola",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/354090569/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Columba livia",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/354090982/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Xylosma spiculifera",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/354381888/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Falco sparverius",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/355172108/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Sturnella magna",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/355179446/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Neda norrisi",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361894730/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Spartocera fusca",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361894795/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Xylophanes ceratomioides",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361960805/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Zelus longipes",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361960895/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Neda norrisi",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/362005827/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Dendropsophus molitor",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361961323/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Myioborus ornatus",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/364219429/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Myiothlypis coronata",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/364219845/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Geranoaetus melanoleucus",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/364220196/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Vanessa carye",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/387267871/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Bubulcus ibis",
+        "tipo": "Animalia",
+        "imagen": null,
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Bubulcus ibis",
+        "tipo": "Animalia",
+        "imagen": null,
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Chauna chavaria",
+        "tipo": "Animalia",
+        "imagen": null,
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Jacana jacana",
+        "tipo": "Animalia",
+        "imagen": null,
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Chauna chavaria",
+        "tipo": "Animalia",
+        "imagen": null,
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Bubulcus ibis",
+        "tipo": "Animalia",
+        "imagen": null,
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Egretta thula",
+        "tipo": "Animalia",
+        "imagen": null,
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Ardea cocoi",
+        "tipo": "Animalia",
+        "imagen": null,
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Chauna chavaria",
+        "tipo": "Animalia",
+        "imagen": null,
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Bubulcus ibis",
+        "tipo": "Animalia",
+        "imagen": null,
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Egretta thula",
+        "tipo": "Animalia",
+        "imagen": null,
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Ardea cocoi",
+        "tipo": "Animalia",
+        "imagen": null,
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Bubulcus ibis",
+        "tipo": "Animalia",
+        "imagen": null,
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Bubulcus ibis",
+        "tipo": "Animalia",
+        "imagen": null,
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Chauna chavaria",
+        "tipo": "Animalia",
+        "imagen": null,
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Jacana jacana",
+        "tipo": "Animalia",
+        "imagen": null,
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Chauna chavaria",
+        "tipo": "Animalia",
+        "imagen": null,
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Leptoglossus zonatus",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/354623176/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Erythrolamprus epinephalus",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/355144075/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Erythrolamprus epinephalus",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/355144370/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Setophaga fusca",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/355175055/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Mecocerculus leucophrys",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/355177811/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Pipraeidea melanonota",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/355176595/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Atlapetes semirufus",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/356433311/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Euphonia cyanocephala",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/355180613/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Erythrolamprus epinephalus",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/355722228/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Crotophaga ani",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/356453583/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Vanellus chilensis",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/356507398/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Enema pan",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/356540304/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Stenocereus griseus",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357069822/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Stenocereus griseus",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357069924/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Linochilus rosmarinifolius",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357183800/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Tillandsia incarnata",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357368394/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Pleurothallis chloroleuca",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357441749/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Epidendrum falcivesicicaule",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357442514/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Tillandsia recurvata",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357675032/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Malvastrum coromandelianum",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357677174/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Stenandrium dulce",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357678698/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Odocoileus virginianus",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357867759/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Echeveria bicolor",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357921952/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Echeveria bicolor",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357922985/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Gentiana sedifolia",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357962278/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Castilleja paramensis",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357962325/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Peperomia hartwegiana",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357962247/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Linochilus lacunosus",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357962314/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Carex pichinchensis",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357965238/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Nertera granadensis",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357965528/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Gentiana sedifolia",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357965818/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Nertera granadensis",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357983581/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Stenocercus lache",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357985309/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Cyrtochilum revolutum",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357986074/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Turdus fuscater",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357987672/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Zonotrichia capensis",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357987723/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Passiflora mixta",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/358016978/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Lourteigia stoechadifolia",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/358017407/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Vallea stipularis",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/358024855/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Deconica coprophila",
+        "tipo": "Fungi",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/358243958/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Sobralia ruckeri",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/358302067/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Comparettia macroplectron",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/358302834/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Eryngium humile",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/358409712/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Castilleja paramensis",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/358422659/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Drymonia teuscheri",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/358553344/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Coeligena torquata",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/358569973/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Maxillaria lepidota",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/358573261/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Senecio niveoaureus",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/358577349/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Ocotea pedicellata",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/358626971/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Andea multinervis",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/358624065/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Coragyps atratus",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/358632501/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Tillandsia suescana",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/358783336/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Tillandsia denudata",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/358783832/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Vanessa carye",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/358912091/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Ipomoea indica",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/358913497/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Perisama diotima",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/358916732/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Oxyrhopus leucomelas",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/358918453/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Setophaga fusca",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/358967141/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Mecardonia procumbens",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/359013935/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Pleurothallis crocodiliceps",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/359015512/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Rhinella horribilis",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/359073182/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Bejaria resinosa",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/359215213/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Dryadella lilliputiana",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/359165606/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Patagioenas fasciata",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/360346680/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Erinnyis obscura",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/360455003/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Erigeron karvinskianus",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/360700943/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Equisetum giganteum",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/360723661/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Eryngium humboldtii",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/360884040/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Galium hypocarpium",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/360888413/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Orthrosanthus chimboracensis",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/360890629/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Saltator olivascens",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/360896595/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Acaena elongata",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361006471/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": null,
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361007479/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Asplenium castaneum",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361008067/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Polystichum orbiculatum",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361008535/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Equisetum bogotense",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361008926/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Sabazia trianae",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361009560/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Trifolium repens",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361047339/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Kinosternon leucostomum",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361086419/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Kinosternon leucostomum",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361086936/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Trifolium pratense",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361166976/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Tillandsia recurvata",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361168124/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Apis mellifera",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361168790/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Oxalis latifolia",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361169185/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Harmonia axyridis",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361178379/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Sphaenognathus armatus",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361179870/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Rubus acanthophyllos",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361185090/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Espeletia boyacensis",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361187337/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Pipra filicauda",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361428123/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Chloropetalum denticulatum",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361544097/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Aotus griseimembra",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361577533/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Ipomoea indica",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361999049/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Comparettia macroplectron",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361998851/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Urbanus proteus",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361999117/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Papilio thoas",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361999648/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Espeletia glandulosa",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/362443086/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Ricinus communis",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/362443449/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Diglossa sittoides",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/363044095/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Sobralia ruckeri",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/363583393/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Atractus elaps",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/363585154/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Leiothlypis peregrina",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/364238935/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": null,
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/364239420/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Bolax meyeri",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/364239506/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Geothlypis philadelphia",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/364240086/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Mniotilta varia",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/364240199/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Meriania speciosa",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/368175315/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Meriania speciosa",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/368175321/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Toxicodendron striatum",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/368175651/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Enallagma civile",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/375926375/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Linochilus schultzii",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/384363980/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Papilio polyxenes",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/386689413/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Amastus thalassina",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/387269545/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Golofa eacus",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/362262943/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Columba livia",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/369609254/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Zenaida auriculata",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/367201571/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Catonephele chromis",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/364087364/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Erinnyis ello",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/364279069/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": null,
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/364963044/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Epidendrum mamapachae",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/366144332/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Dendropsophus molitor",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/366474918/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Mucuna urens",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/366496237/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Espeletia glandulosa",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/367243055/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Elleanthus myrosmatis",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/367667777/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Syrigma sibilatrix",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/367677919/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Maxillaria graminifolia",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/367955753/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Persea mutisii",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/367959363/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Maxillaria aggregata",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/367971853/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Scaphyglottis aurea",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/367969750/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Lepanthes wageneri",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/368002825/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Epidendrum schlimii",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/368003103/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Cuphea racemosa",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/368006925/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Sobralia ruckeri",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/368008059/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Begonia ferruginea",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/368008283/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Sturnella magna",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/368012506/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": null,
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/368025198/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Ara macao",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/368262551/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Heterogomphus chevrolati",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/368299374/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Euphonia cyanocephala",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/368285513/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Pteridium esculentum",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/368302065/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Cyrtochilum divaricatum",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/368302524/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Tyrannus tyrannus",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/368320564/original.jpg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Turdus fuscater",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/368970330/original.jpeg",
+        "ubicacion": "Boyacá"
+    },
+    {
+        "nombre": "Aniba robusta",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/368943786/original.jpg",
+        "ubicacion": "Boyacá"
+    }
+]

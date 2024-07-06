@@ -1,0 +1,230 @@
+[
+    {
+        "nombre": "Podalia amarga",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/343919356/original.jpeg",
+        "ubicacion": "45, Puerto Salgar, Cundinamarca, Colombia"
+    },
+    {
+        "nombre": "Sicalis flaveola",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/348441224/original.jpeg",
+        "ubicacion": "Guayabal de Síquima, Cundinamarca, Colombia"
+    },
+    {
+        "nombre": "Philophyllia guttulata",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/343891834/original.jpeg",
+        "ubicacion": "Carrera 7 Sur # 10-75, Guaduas, Cundinamarca, Colombia"
+    },
+    {
+        "nombre": "Trifolium repens",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/343945323/original.jpeg",
+        "ubicacion": "Subachoque, Cundinamarca, Colombia"
+    },
+    {
+        "nombre": "Baccharis latifolia",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/343945363/original.jpeg",
+        "ubicacion": "Tabio, Cundinamarca, Colombia"
+    },
+    {
+        "nombre": "Ancognatha scarabaeoides",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/343945665/original.jpeg",
+        "ubicacion": "Zipaquirá, Cundinamarca, Colombia"
+    },
+    {
+        "nombre": "Myiotheretes striaticollis",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/343999131/original.jpeg",
+        "ubicacion": "Facatativa, Cundinamarca, Colombia"
+    },
+    {
+        "nombre": "Sporathraupis cyanocephala",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344000147/original.jpeg",
+        "ubicacion": "Facatativa, Cundinamarca, Colombia"
+    },
+    {
+        "nombre": "Guettarda dependens",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344000783/original.jpeg",
+        "ubicacion": "Facatativa, Cundinamarca, Colombia"
+    },
+    {
+        "nombre": "Marasmius haematocephalus",
+        "tipo": "Fungi",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344121922/original.jpg",
+        "ubicacion": "El Vergel, Anapoima, Département de Cundinamarca, CO"
+    },
+    {
+        "nombre": "Anadia bogotensis",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344173763/original.jpeg",
+        "ubicacion": "Cundinamarca, CO"
+    },
+    {
+        "nombre": "Fernandezia sanguinea",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344180719/original.jpeg",
+        "ubicacion": "J7HG+JQ Sendero de los sentidos, Fómeque, Cundinamarca, Colombia"
+    },
+    {
+        "nombre": "Thecadactylus rapicauda",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344188314/original.jpeg",
+        "ubicacion": "La Mesa, Cundinamarca, Colombia"
+    },
+    {
+        "nombre": "Atractus werneri",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344188984/original.jpeg",
+        "ubicacion": "La Mesa, Cundinamarca, Colombia"
+    },
+    {
+        "nombre": "Stagmomantis parvidentata",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344192037/original.jpg",
+        "ubicacion": "San Antonio, La Vega, Cundinamarca, CO"
+    },
+    {
+        "nombre": "Chlorida festiva",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344193005/original.jpg",
+        "ubicacion": "El Vergel, Anapoima, Cundinamarca, CO"
+    },
+    {
+        "nombre": "Streptoprocne zonaris",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344205914/original.jpg",
+        "ubicacion": "San Jerónimo, Nilo, Cundinamarca, CO"
+    },
+    {
+        "nombre": "Telipogon falcatus",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344309215/original.jpeg",
+        "ubicacion": "J7HG+JQ Sendero de los sentidos, Fómeque, Cundinamarca, Colombia"
+    },
+    {
+        "nombre": "Langsdorffia hypogaea",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344321475/original.jpg",
+        "ubicacion": "El Curi, Choachí, Cundinamarca, CO"
+    },
+    {
+        "nombre": "Calephelis laverna",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344369736/original.jpeg",
+        "ubicacion": "Nocaima, Cundinamarca, Colombia"
+    },
+    {
+        "nombre": "Acromis sparsa",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344370184/original.jpeg",
+        "ubicacion": "Nocaima, Cundinamarca, Colombia"
+    },
+    {
+        "nombre": "Emilia fosbergii",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344370945/original.jpeg",
+        "ubicacion": "Nocaima, Cundinamarca, Colombia"
+    },
+    {
+        "nombre": "Danaus gilippus",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344372072/original.jpeg",
+        "ubicacion": "Nocaima, Cundinamarca, Colombia"
+    },
+    {
+        "nombre": "Anadia bogotensis",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344395916/original.jpeg",
+        "ubicacion": "Cundinamarca, CO"
+    },
+    {
+        "nombre": "Strymon mulucha",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344399825/original.jpeg",
+        "ubicacion": "Nocaima, Cundinamarca, Colombia"
+    },
+    {
+        "nombre": "Siproeta stelenes",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344400382/original.jpeg",
+        "ubicacion": "Nocaima, Cundinamarca, Colombia"
+    },
+    {
+        "nombre": "Bocconia frutescens",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344456647/original.jpg",
+        "ubicacion": "Vereda Florida, Funza, Cundinamarca, CO"
+    },
+    {
+        "nombre": "Passiflora tarminiana",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344482994/original.jpg",
+        "ubicacion": "Camino Al Parque De La Florida, Cota, Cundinamarca, CO"
+    },
+    {
+        "nombre": "Streptosolen jamesonii",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344483019/original.jpg",
+        "ubicacion": "Camino Al Parque De La Florida, Cota, Cundinamarca, CO"
+    },
+    {
+        "nombre": "Cyrtochilum auropurpureum",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344503268/original.jpeg",
+        "ubicacion": "Guasca, Cundinamarca, Colômbia"
+    },
+    {
+        "nombre": "Altopedaliodes nebris",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344504700/original.jpeg",
+        "ubicacion": "Guasca, Cundinamarca, Colômbia"
+    },
+    {
+        "nombre": "Idioneurula erebioides",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344504829/original.jpeg",
+        "ubicacion": "Guasca, Cundinamarca, Colômbia"
+    },
+    {
+        "nombre": null,
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344505219/original.jpeg",
+        "ubicacion": "Guasca, Cundinamarca, Colômbia"
+    },
+    {
+        "nombre": "Syzygium paniculatum",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344512565/original.jpg",
+        "ubicacion": "Tabio, Cundinamarca, Colombia"
+    },
+    {
+        "nombre": "Mimus gilvus",
+        "tipo": "Animalia",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344512668/original.jpg",
+        "ubicacion": "Tabio, Cundinamarca, Colombia"
+    },
+    {
+        "nombre": "Persicaria nepalensis",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344547543/original.jpg",
+        "ubicacion": "Vanguardia, Guayabetal, Cundinamarca, CO"
+    },
+    {
+        "nombre": "Lycopodium clavatum",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344547665/original.jpg",
+        "ubicacion": "Vanguardia, Guayabetal, Cundinamarca, CO"
+    },
+    {
+        "nombre": "Histiopteris incisa",
+        "tipo": "Plantae",
+        "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344550593/original.jpg",
+        "ubicacion": "Vanguardia, Guayabetal, Cundinamarca, CO"
+    }
+]

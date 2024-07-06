@@ -1,7 +1,8 @@
-from fastapi import FastAPI, Request
+from fastapi import FastAPI, Request, HTTPException
 from fastapi.responses import HTMLResponse
 from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
+import json
 from pathlib import Path
 
 app = FastAPI()
@@ -25,7 +26,29 @@ async def get_department(request: Request, department_name: str):
 
 @app.get("/especies", response_class=HTMLResponse)
 async def especies(request: Request):
-    return templates.TemplateResponse("especies.html", {"request": request})
+    cundinamarca_json_path = 'static/data/cundinamarca_especies.json'
+    boyaca_json_path = 'static/data/boyaca_especies.json'
+    
+    especies_cundinamarca = []
+    especies_boyaca = []
+    
+    if Path(cundinamarca_json_path).exists() and Path(cundinamarca_json_path).stat().st_size > 0:
+        with open(cundinamarca_json_path, 'r') as json_file:
+            try:
+                especies_cundinamarca = json.load(json_file)
+                print("Datos de Cundinamarca cargados correctamente:", especies_cundinamarca)  # Depuración
+            except json.JSONDecodeError:
+                print("Error al decodificar el archivo JSON de Cundinamarca.")
+    
+    if Path(boyaca_json_path).exists() and Path(boyaca_json_path).stat().st_size > 0:
+        with open(boyaca_json_path, 'r') as json_file:
+            try:
+                especies_boyaca = json.load(json_file)
+                print("Datos de Boyacá cargados correctamente:", especies_boyaca)  # Depuración
+            except json.JSONDecodeError:
+                print("Error al decodificar el archivo JSON de Boyacá.")
+    
+    return templates.TemplateResponse("especies.html", {"request": request, "especies_cundinamarca": especies_cundinamarca, "especies_boyaca": especies_boyaca})
 
 @app.get("/contacto", response_class=HTMLResponse)
 async def contacto(request: Request):
