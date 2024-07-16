@@ -25,7 +25,8 @@ if response.status_code == 200:
                 'nombre': record.get('species'),
                 'tipo': record.get('kingdom'),
                 'imagen': record.get('media')[0]['identifier'] if record.get('media') else None,
-                'ubicacion': record.get('stateProvince')
+                'ubicacion': record.get('stateProvince'),
+                'ciudad': record.get('verbatimLocality')
             }
             listado.append(dic)
     # Guardar los datos en un archivo JSON

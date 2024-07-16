@@ -3,19 +3,19 @@
         "nombre": "Podalia amarga",
         "tipo": "Animalia",
         "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/343919356/original.jpeg",
-        "ubicacion": "45, Puerto Salgar, Cundinamarca, Colombia"
+        "ubicacion": "Puerto Salgar, Cundinamarca, Colombia"
     },
     {
         "nombre": "Sicalis flaveola",
         "tipo": "Animalia",
         "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/348441224/original.jpeg",
-        "ubicacion": "Guayabal de Síquima, Cundinamarca, Colombia"
+        "ubicacion": "Guayabal de Sï¿½quima, Cundinamarca, Colombia"
     },
     {
         "nombre": "Philophyllia guttulata",
         "tipo": "Animalia",
         "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/343891834/original.jpeg",
-        "ubicacion": "Carrera 7 Sur # 10-75, Guaduas, Cundinamarca, Colombia"
+        "ubicacion": "Guaduas, Cundinamarca, Colombia"
     },
     {
         "nombre": "Trifolium repens",
@@ -33,7 +33,7 @@
         "nombre": "Ancognatha scarabaeoides",
         "tipo": "Animalia",
         "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/343945665/original.jpeg",
-        "ubicacion": "Zipaquirá, Cundinamarca, Colombia"
+        "ubicacion": "Zipaquirï¿½, Cundinamarca, Colombia"
     },
     {
         "nombre": "Myiotheretes striaticollis",
@@ -57,7 +57,7 @@
         "nombre": "Marasmius haematocephalus",
         "tipo": "Fungi",
         "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344121922/original.jpg",
-        "ubicacion": "El Vergel, Anapoima, Département de Cundinamarca, CO"
+        "ubicacion": "El Vergel, Anapoima, Dï¿½partement de Cundinamarca, CO"
     },
     {
         "nombre": "Anadia bogotensis",
@@ -69,7 +69,7 @@
         "nombre": "Fernandezia sanguinea",
         "tipo": "Plantae",
         "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344180719/original.jpeg",
-        "ubicacion": "J7HG+JQ Sendero de los sentidos, Fómeque, Cundinamarca, Colombia"
+        "ubicacion": "Sendero de los sentidos, Fï¿½meque, Cundinamarca, Colombia"
     },
     {
         "nombre": "Thecadactylus rapicauda",
@@ -99,19 +99,19 @@
         "nombre": "Streptoprocne zonaris",
         "tipo": "Animalia",
         "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344205914/original.jpg",
-        "ubicacion": "San Jerónimo, Nilo, Cundinamarca, CO"
+        "ubicacion": "San Jerï¿½nimo, Nilo, Cundinamarca, CO"
     },
     {
         "nombre": "Telipogon falcatus",
         "tipo": "Plantae",
         "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344309215/original.jpeg",
-        "ubicacion": "J7HG+JQ Sendero de los sentidos, Fómeque, Cundinamarca, Colombia"
+        "ubicacion": "Sendero de los sentidos, Fï¿½meque, Cundinamarca, Colombia"
     },
     {
         "nombre": "Langsdorffia hypogaea",
         "tipo": "Plantae",
         "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344321475/original.jpg",
-        "ubicacion": "El Curi, Choachí, Cundinamarca, CO"
+        "ubicacion": "El Curi, Choachï¿½, Cundinamarca, CO"
     },
     {
         "nombre": "Calephelis laverna",
@@ -177,25 +177,25 @@
         "nombre": "Cyrtochilum auropurpureum",
         "tipo": "Plantae",
         "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344503268/original.jpeg",
-        "ubicacion": "Guasca, Cundinamarca, Colômbia"
+        "ubicacion": "Guasca, Cundinamarca, Colï¿½mbia"
     },
     {
         "nombre": "Altopedaliodes nebris",
         "tipo": "Animalia",
         "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344504700/original.jpeg",
-        "ubicacion": "Guasca, Cundinamarca, Colômbia"
+        "ubicacion": "Guasca, Cundinamarca, Colï¿½mbia"
     },
     {
         "nombre": "Idioneurula erebioides",
         "tipo": "Animalia",
         "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344504829/original.jpeg",
-        "ubicacion": "Guasca, Cundinamarca, Colômbia"
+        "ubicacion": "Guasca, Cundinamarca, Colï¿½mbia"
     },
     {
         "nombre": null,
         "tipo": "Animalia",
         "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344505219/original.jpeg",
-        "ubicacion": "Guasca, Cundinamarca, Colômbia"
+        "ubicacion": "Guasca, Cundinamarca, Colï¿½mbia"
     },
     {
         "nombre": "Syzygium paniculatum",

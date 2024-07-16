@@ -27,13 +27,15 @@
 
     <!-- Script leaflet -->
     <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+
+    <script src="../../static/js/departamentoCundinamarca.js"></script>
 </head>
 
 <body>
     <nav class="navbar navbar-expand-lg fixed-top">
         <div class="container-fluid">
-            <a class="navbar-brand" href="/"><img id="logo" src="../../static/images/logo-biodiversity.png" alt="Biodiversidad"
-                    height="512px" width="512px"></a>
+            <a class="navbar-brand" href="/"><img id="logo" src="../../static/images/logo-biodiversity.png"
+                    alt="Biodiversidad" height="512px" width="512px"></a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText"
                 aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -63,6 +65,56 @@
     <div class="container" id="map"></div>
     <script src="../../static/js/cundinamarca.js"></script>
     <!-- Fin mapa -->
+
+    <br>
+
+    <div class="container">
+        <div class="row mb-4">
+            <div class="col text-right">
+                <label for="filter-select">Filtrar por:</label>
+                <select id="filter-select" class="ml-2" onchange="applyFilter()">
+                    <option value="all" {% if filter=='all' %}selected{% endif %}>Todas</option>
+                    <option value="plantas" {% if filter=='plantas' %}selected{% endif %}>Plantas</option>
+                    <option value="animales" {% if filter=='animales' %}selected{% endif %}>Animales</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="row">
+            {% for especie in especies %}
+            {% if especie.tipo == 'Plantae' and especie.imagen is not none %}
+            <div class="col-6 col-md-4">
+                <div class="card mb-4 shadow-sm">
+                    <img src="{{ especie.imagen }}" class="card-img-top" alt="{{ especie.nombre }}" width="350"
+                        height="250">
+                    <div class="card-body">
+                        <h5 class="card-title">{{ especie.nombre }}</h5>
+                        <p class="card-text">{{ especie.tipo }}</p>
+                        <p class="card-text">{{ especie.ubicacion }}</p>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+            {% endfor %}
+        </div>
+        <div class="row">
+            {% for especie in especies %}
+            {% if especie.tipo == 'Animalia' and especie.imagen is not none %}
+            <div class="col-6 col-md-4">
+                <div class="card mb-4 shadow-sm">
+                    <img src="{{ especie.imagen }}" class="card-img-top" alt="{{ especie.nombre }}" width="350"
+                        height="250">
+                    <div class="card-body">
+                        <h5 class="card-title">{{ especie.nombre }}</h5>
+                        <p class="card-text">{{ especie.tipo }}</p>
+                        <p class="card-text">{{ especie.ubicacion }}</p>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+            {% endfor %}
+        </div>
+    </div>
 
     <!-- Fin Contenido que cambia -->
 

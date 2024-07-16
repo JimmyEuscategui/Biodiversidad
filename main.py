@@ -17,12 +17,32 @@ async def home(request: Request):
     return templates.TemplateResponse("inicio.html", {"request": request})
 
 @app.get("/departamentos/{department_name}", response_class=HTMLResponse)
-async def get_department(request: Request, department_name: str):
+async def get_department(request: Request, department_name: str, filter: str = "all"):
     template_path = Path(f"templates/departamentos/{department_name}.html")
     if template_path.exists():
-        return templates.TemplateResponse(f"departamentos/{department_name}.html", {"request": request})
+        especies = []
+        json_path = ''
+        if department_name.lower() == "boyaca":
+            json_path = 'static/data/boyaca_especies.json'
+        elif department_name.lower() == "cundinamarca":
+            json_path = 'static/data/cundinamarca_especies.json'
+        
+        if json_path and Path(json_path).exists() and Path(json_path).stat().st_size > 0:
+            with open(json_path, 'r') as json_file:
+                try:
+                    especies = json.load(json_file)
+                    if filter == "plantas":
+                        especies = [especie for especie in especies if especie["tipo"] == "Plantae"]
+                    elif filter == "animales":
+                        especies = [especie for especie in especies if especie["tipo"] == "Animalia"]
+                except json.JSONDecodeError:
+                    pass
+
+        return templates.TemplateResponse(f"departamentos/{department_name}.html", {"request": request, "especies": especies, "filter": filter})
     else:
         return HTMLResponse(content="No hay una vista disponible para este departamento.", status_code=404)
+
+
 
 @app.get("/especies", response_class=HTMLResponse)
 async def especies(request: Request):
