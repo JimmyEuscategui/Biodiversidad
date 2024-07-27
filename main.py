@@ -70,9 +70,9 @@ async def especies(request: Request):
     
     return templates.TemplateResponse("especies.html", {"request": request, "especies_cundinamarca": especies_cundinamarca, "especies_boyaca": especies_boyaca})
 
-@app.get("/contacto", response_class=HTMLResponse)
-async def contacto(request: Request):
-    return templates.TemplateResponse("contacto.html", {"request": request})
+@app.get("/estadisticas", response_class=HTMLResponse)
+async def estadisticas(request: Request):
+    return templates.TemplateResponse("estadisticas.html", {"request": request})
 
 @app.get("/ecosistema", response_class=HTMLResponse)
 async def ecosistemas(request: Request):
