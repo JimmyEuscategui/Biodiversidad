@@ -73,3 +73,11 @@
     background-color: #73a5cb;
     transform: translateX(-50%) scaleY(1.3) scaleX(0.8);
 }
+
+
+.chart-small {
+    width: 100%;
+    max-width: 400px; /* Puedes ajustar este valor según sea necesario */
+    height: 300px;    /* Puedes ajustar este valor según sea necesario */
+    margin: 0 auto;   /* Centra el canvas dentro de su contenedor */
+}
