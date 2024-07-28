@@ -1,0 +1,4224 @@
+{
+    "Boyaca": {
+        "species": [
+            {
+                "nombre": "Argiope argentata",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/343894679/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Villa de Leyva"
+            },
+            {
+                "nombre": "Cyclocephala lunulata",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344186444/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Boyacá, CO"
+            },
+            {
+                "nombre": "Passiflora manicata",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344527030/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Villa de Leyva, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Elanus leucurus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344646943/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Sutamarchán, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Quiscalus lugubris",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344647537/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Sutamarchán, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Mimus gilvus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344647907/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Sutamarchán, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Peperomia tetraphylla",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344814970/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Gachantivá, CO-BY, CO"
+            },
+            {
+                "nombre": "Nectandra cuspidata",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344862267/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Moniquirá, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Heliconius charithonia",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344862718/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Perrera, Moniquirá, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Racinaea tenuispica",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344862764/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Moniquirá, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Calea bucaramangensis",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344862779/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Moniquirá, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Vriesea myriantha",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344862823/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Moniquirá, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Tillandsia fendleri",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344862844/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Moniquirá, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Cyrtochilum revolutum",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344906142/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Tasco, Tasco, Departamento de Boyaca, CO"
+            },
+            {
+                "nombre": "Gasteracantha cancriformis",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344922269/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Guateque, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Cyanocorax yncas",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344923052/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Somondoco, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Acacia melanoxylon",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344996233/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Calle 9, Villa de Leyva, Boyacá, CO"
+            },
+            {
+                "nombre": "Tyrannus savana",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345000563/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Villa de Leyva, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Kohleria tigridia",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345016350/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Villa de Leyva, Villa de Leyva, Boyacá, CO"
+            },
+            {
+                "nombre": "Cavendishia bracteata",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345016390/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Villa de Leyva, Villa de Leyva, Boyacá, CO"
+            },
+            {
+                "nombre": "Meriania speciosa",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345069740/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Pisba, CO-BY, CO"
+            },
+            {
+                "nombre": "Paracles contraria",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345101090/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Arcabuco"
+            },
+            {
+                "nombre": "Anartia amathea",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345402619/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Carrera 4, Chinavita, Boyacá, CO"
+            },
+            {
+                "nombre": "Palicourea angustifolia",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345412144/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Moniquirá, CO-BY, CO"
+            },
+            {
+                "nombre": "Eryphanis lycomedon",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345436358/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "2G25+F6, Puerto Boyacá, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Anartia amathea",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345528603/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Calle 4, Chinavita, Boyacá, CO"
+            },
+            {
+                "nombre": "Leuciris fimbriaria",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345572485/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "San Benito, San Benito, Santander, CO"
+            },
+            {
+                "nombre": "Coriaria ruscifolia",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346257145/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Gachantivá, Gachantivá, Boyacá, CO"
+            },
+            {
+                "nombre": "Hydriomena multangulata",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346446300/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Ramiriquí, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Passiflora manicata",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346731643/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Gachantivá, CO-BY, CO"
+            },
+            {
+                "nombre": "Pleurothallis gracilipedunculata",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346825067/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Guican"
+            },
+            {
+                "nombre": "Bombus pauloensis",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346768145/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Ramiriquí, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Arcytophyllum thymifolium",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346829470/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Arcabuco"
+            },
+            {
+                "nombre": "Epidendrum ciliare",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346835293/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Villa de Leyva"
+            },
+            {
+                "nombre": "Lampropeltis micropholis",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/347473555/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Villa de Leyva, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Ascalapha odorata",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/347924682/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Villa de Leyva, Villa de Leyva, Boyacá, CO"
+            },
+            {
+                "nombre": "Chironius monticola",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/348705769/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Villa de Leyva, Villa de Leyva, Boyacá, CO"
+            },
+            {
+                "nombre": "Ocotea pedicellata",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/348029685/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Boyacá, CO"
+            },
+            {
+                "nombre": "Nertera granadensis",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/348527103/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Aquitania, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Chaetogastra longifolia",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/348637250/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Pajarito, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Elephantopus mollis",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/348637321/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Pajarito, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Harmonia axyridis",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/348706921/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Villa de Leyva, Villa de Leyva, Boyacá, CO"
+            },
+            {
+                "nombre": "Urania fulgens",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/348743530/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "5CM7+R5, Puerto Nare, Antioquia, Colombia"
+            },
+            {
+                "nombre": "Chironius spixii",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/348743812/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Puerto Triunfo, Antioquia, Colombia"
+            },
+            {
+                "nombre": "Chironius spixii",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/348744106/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Puerto Triunfo, Antioquia, Colombia"
+            },
+            {
+                "nombre": "Bradypus variegatus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/348744483/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Puerto Nare, Antioquia, Colombia"
+            },
+            {
+                "nombre": "Chaetogastra ciliaris",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/348882419/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Sora, CO-BY, CO"
+            },
+            {
+                "nombre": "Corydalus armatus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/348900718/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Villa de Leyva, Villa de Leyva, Boyacá, CO"
+            },
+            {
+                "nombre": "Bothrocophias tulitoi",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/349014709/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Garagoa, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Miconia bella",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/349016238/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Boyacá, CO"
+            },
+            {
+                "nombre": "Pyrrhomyias cinnamomeus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/349016953/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Chinavita, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Munnozia senecionidis",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/349017772/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Chinavita, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Passiflora longipes",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/349018565/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Chinavita, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Fevillea cordifolia",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/349142932/original.png",
+                "ubicacion": "Boyacá",
+                "ciudad": "vereda sococho, Yopal, Casanare, Colombia"
+            },
+            {
+                "nombre": "Zonotrichia capensis",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/349229361/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Via Vda. Paramo, Sutatenza, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Setophaga pitiayumi",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/349229408/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Via Vda. Paramo, Sutatenza, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Ramphocelus carbo",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/349229405/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Via Vda. Paramo, Sutatenza, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Stilpnia cyanicollis",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/349229402/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Guateque, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Tachyphonus rufus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/349229431/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Guateque, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Setophaga fusca",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/349229444/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Via Vda. Paramo, Sutatenza, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Sicalis flaveola",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/349229454/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Guateque, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Thraupis palmarum",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/349229473/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Guateque, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Pipra filicauda",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/349667349/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Colombia"
+            },
+            {
+                "nombre": "Chlorostilbon poortmani",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352257468/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Gachantivá, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Ancognatha vulgaris",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352258831/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Gachantivá, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Pawiloma paramoena",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352262284/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Villa de Leyva, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Catharus ustulatus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352262542/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Villa de Leyva, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Argiope argentata",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352262881/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Gachantivá, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Neda norrisi",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352262882/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Gachantivá, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Neda norrisi",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352264791/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Gachantivá, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Neda norrisi",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352264794/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Gachantivá, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Neda norrisi",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352264861/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Gachantivá, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Neda norrisi",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352265629/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Gachantivá, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Xylophanes virescens",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352806338/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "El Tabe, Saber y Sabor ArteSano"
+            },
+            {
+                "nombre": "Dynastes neptunus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352864975/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Boyacá, CO"
+            },
+            {
+                "nombre": "Dendropsophus molitor",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352865161/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Gachantivá, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Dendropsophus virolinensis",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352865385/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Gachantivá, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Camponotus mus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/353327521/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Vereda Saavedra de Roncacios, Gachantivá, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Tyto alba",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/354644125/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Ramiriquí, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Harmonia axyridis",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/356260707/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Cucaita, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Chauna chavaria",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/364451393/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Colombia"
+            },
+            {
+                "nombre": "Stenorrhynchos albidomaculatum",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/382251525/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Trinidad, Duitama, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Kinosternon leucostomum",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/349333188/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Barbosa, Barbosa, Santander, CO"
+            },
+            {
+                "nombre": "Setophaga fusca",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/349522955/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Calle 13a, Garagoa, Boyacá, CO"
+            },
+            {
+                "nombre": "Phobetron hipparchia",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/350049041/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Sutamarchán, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Brentus anchorago",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/350629828/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Puerto Nare, Antioquia, Colombia"
+            },
+            {
+                "nombre": "Melanerpes rubricapillus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/350633815/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "km 25 via teca pto nare, Puerto Nare, Antioquia, Colombia"
+            },
+            {
+                "nombre": "Bomarea multiflora",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/351261725/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Paipa, Boyaca, Colômbia"
+            },
+            {
+                "nombre": "Oxyrhopus leucomelas",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/351295135/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Garagoa, Garagoa, Boyacá, CO"
+            },
+            {
+                "nombre": "Boana lanciformis",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/351634451/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Paya, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Duranta mutisii",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/351967768/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Tibaná, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Amaryllis belladonna",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352321249/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Ciénega, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Linochilus phylicoides",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352321374/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Ciénega, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Vaccinium floribundum",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352321428/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "9PX5+93, Ciénega, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Arcytophyllum nitidum",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352321483/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "9PX5+93, Ciénega, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Escallonia myrtilloides",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352322040/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Ciénega, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Greigia stenolepis",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352322923/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Ciénega, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Palicourea aschersonianoides",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352323190/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Ciénega, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Drimys granadensis",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352323329/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Ciénega, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Monticalia pulchella",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352323981/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Ciénega, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Colaptes punctigula",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352325801/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Ramiriquí, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Miconia cleefii",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352453339/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Viracachá, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Epidendrum farfanii",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352453778/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Viracachá, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Hieracium avilae",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352453952/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Rondón, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Phytolacca bogotensis",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352459300/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "9PX5+93, Ciénega, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Ugni myricoides",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352459763/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "9PX5+93, Ciénega, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Hypericum goyanesii",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352459888/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Ciénega, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Epidendrum bogotense",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352461118/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Ciénega, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Chaetogastra grossa",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352461301/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Ciénega, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Oreopanax bogotensis",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352511480/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Ciénega, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Serpophaga cinerea",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352515558/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Tibaná, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Actitis macularius",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352515410/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Tibaná, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Tringa solitaria",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352515807/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Tibaná, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Cedrela montana",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/352516865/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Tibaná, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Ocotea pedicellata",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/353815698/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Boyacá, CO"
+            },
+            {
+                "nombre": "Epidendrum fimbriatum",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/353844523/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Garagoa, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Persea mutisii",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/353845726/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Garagoa, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Chlorornis riefferii",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/353846187/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Garagoa, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Vriesea tequendamae",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/353847331/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Garagoa, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Guettarda dependens",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/353861235/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Garagoa, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Atlapetes semirufus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/353861935/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Garagoa, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Epidendrum chioneum",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/353898204/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Duitama, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Espeletia glandulosa",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/353898603/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Duitama, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Hemidactylus mabouia",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/354587220/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Moniquirá, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Opuntia soederstromiana",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/354088889/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Villa de Leyva, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Tillandsia usneoides",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/354089362/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Villa de Leyva, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Zenaida auriculata",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/354089943/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Villa de Leyva, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Phoebis philea",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/354090244/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Villa de Leyva, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Sicalis flaveola",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/354090416/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Villa de Leyva, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Sicalis flaveola",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/354090569/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Villa de Leyva, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Columba livia",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/354090982/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Villa de Leyva, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Xylosma spiculifera",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/354381888/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Ramiriquí, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Falco sparverius",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/355172108/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Ramiriquí, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Sturnella magna",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/355179446/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Ramiriquí, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Neda norrisi",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361894730/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Gachantivá, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Spartocera fusca",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361894795/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Gachantivá, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Xylophanes ceratomioides",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361960805/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Gachantivá, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Zelus longipes",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361960895/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Gachantivá, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Neda norrisi",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/362005827/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Gachantivá, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Dendropsophus molitor",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361961323/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Gachantivá, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Myioborus ornatus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/364219429/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Villa de Leyva, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Myiothlypis coronata",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/364219845/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Villa de Leyva, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Geranoaetus melanoleucus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/364220196/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Villa de Leyva, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Vanessa carye",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/387267871/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Tunja, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Bubulcus ibis",
+                "tipo": "Animalia",
+                "imagen": null,
+                "ubicacion": "Boyacá",
+                "ciudad": null
+            },
+            {
+                "nombre": "Bubulcus ibis",
+                "tipo": "Animalia",
+                "imagen": null,
+                "ubicacion": "Boyacá",
+                "ciudad": null
+            },
+            {
+                "nombre": "Chauna chavaria",
+                "tipo": "Animalia",
+                "imagen": null,
+                "ubicacion": "Boyacá",
+                "ciudad": null
+            },
+            {
+                "nombre": "Jacana jacana",
+                "tipo": "Animalia",
+                "imagen": null,
+                "ubicacion": "Boyacá",
+                "ciudad": null
+            },
+            {
+                "nombre": "Chauna chavaria",
+                "tipo": "Animalia",
+                "imagen": null,
+                "ubicacion": "Boyacá",
+                "ciudad": null
+            },
+            {
+                "nombre": "Bubulcus ibis",
+                "tipo": "Animalia",
+                "imagen": null,
+                "ubicacion": "Boyacá",
+                "ciudad": null
+            },
+            {
+                "nombre": "Egretta thula",
+                "tipo": "Animalia",
+                "imagen": null,
+                "ubicacion": "Boyacá",
+                "ciudad": null
+            },
+            {
+                "nombre": "Ardea cocoi",
+                "tipo": "Animalia",
+                "imagen": null,
+                "ubicacion": "Boyacá",
+                "ciudad": null
+            },
+            {
+                "nombre": "Chauna chavaria",
+                "tipo": "Animalia",
+                "imagen": null,
+                "ubicacion": "Boyacá",
+                "ciudad": null
+            },
+            {
+                "nombre": "Bubulcus ibis",
+                "tipo": "Animalia",
+                "imagen": null,
+                "ubicacion": "Boyacá",
+                "ciudad": null
+            },
+            {
+                "nombre": "Egretta thula",
+                "tipo": "Animalia",
+                "imagen": null,
+                "ubicacion": "Boyacá",
+                "ciudad": null
+            },
+            {
+                "nombre": "Ardea cocoi",
+                "tipo": "Animalia",
+                "imagen": null,
+                "ubicacion": "Boyacá",
+                "ciudad": null
+            },
+            {
+                "nombre": "Bubulcus ibis",
+                "tipo": "Animalia",
+                "imagen": null,
+                "ubicacion": "Boyacá",
+                "ciudad": null
+            },
+            {
+                "nombre": "Bubulcus ibis",
+                "tipo": "Animalia",
+                "imagen": null,
+                "ubicacion": "Boyacá",
+                "ciudad": null
+            },
+            {
+                "nombre": "Chauna chavaria",
+                "tipo": "Animalia",
+                "imagen": null,
+                "ubicacion": "Boyacá",
+                "ciudad": null
+            },
+            {
+                "nombre": "Jacana jacana",
+                "tipo": "Animalia",
+                "imagen": null,
+                "ubicacion": "Boyacá",
+                "ciudad": null
+            },
+            {
+                "nombre": "Chauna chavaria",
+                "tipo": "Animalia",
+                "imagen": null,
+                "ubicacion": "Boyacá",
+                "ciudad": null
+            },
+            {
+                "nombre": "Leptoglossus zonatus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/354623176/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Villa de Leyva, Villa de Leyva, Boyacá, CO"
+            },
+            {
+                "nombre": "Erythrolamprus epinephalus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/355144075/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Chíquiza, Chiquiza, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Erythrolamprus epinephalus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/355144370/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Chíquiza, Chiquiza, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Setophaga fusca",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/355175055/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Ramiriquí, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Mecocerculus leucophrys",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/355177811/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Ramiriquí, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Pipraeidea melanonota",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/355176595/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Ramiriquí, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Atlapetes semirufus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/356433311/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Ramiriquí, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Euphonia cyanocephala",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/355180613/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Ramiriquí, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Erythrolamprus epinephalus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/355722228/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Garagoa, Garagoa, Boyacá, CO"
+            },
+            {
+                "nombre": "Crotophaga ani",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/356453583/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Villa de Leyva, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Vanellus chilensis",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/356507398/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Villa de Leyva, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Enema pan",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/356540304/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Barbosa, Santander, Colombia"
+            },
+            {
+                "nombre": "Stenocereus griseus",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357069822/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Soatá - Boavita, Boavita, Boyacá, CO"
+            },
+            {
+                "nombre": "Stenocereus griseus",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357069924/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Soatá - Boavita, Boavita, Boyacá, CO"
+            },
+            {
+                "nombre": "Linochilus rosmarinifolius",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357183800/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Villa de Leyva, Villa de Leyva, Boyacá, CO"
+            },
+            {
+                "nombre": "Tillandsia incarnata",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357368394/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Calle 8, El Cocuy, Boyacá, CO"
+            },
+            {
+                "nombre": "Pleurothallis chloroleuca",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357441749/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Arcabuco"
+            },
+            {
+                "nombre": "Epidendrum falcivesicicaule",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357442514/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Guican"
+            },
+            {
+                "nombre": "Tillandsia recurvata",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357675032/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Villa de Leyva"
+            },
+            {
+                "nombre": "Malvastrum coromandelianum",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357677174/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Villa de Leyva"
+            },
+            {
+                "nombre": "Stenandrium dulce",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357678698/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Villa de Leyva"
+            },
+            {
+                "nombre": "Odocoileus virginianus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357867759/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Vuelta al Cocuy, El Cocuy, Boyacá, CO"
+            },
+            {
+                "nombre": "Miconia salicifolia",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357875804/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "El Cocuy, El Cocuy, Boyacá, CO"
+            },
+            {
+                "nombre": "Echeveria bicolor",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357921952/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "El Cocuy, El Cocuy, Boyacá, CO"
+            },
+            {
+                "nombre": "Echeveria bicolor",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357922985/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Parque Nacional Natural el Cocuy, El Cocuy, Boyacá, CO"
+            },
+            {
+                "nombre": "Gentiana sedifolia",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357962278/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "El Cocuy, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Castilleja paramensis",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357962325/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "El Cocuy, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Peperomia hartwegiana",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357962247/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "El Cocuy, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Linochilus lacunosus",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357962314/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "El Cocuy, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Carex pichinchensis",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357965238/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Güicán, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Nertera granadensis",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357965528/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "El Cocuy, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Gentiana sedifolia",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357965818/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "El Cocuy, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Nertera granadensis",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357983581/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Güicán, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Stenocercus lache",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357985309/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Güicán, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Cyrtochilum revolutum",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357986074/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Güicán, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Turdus fuscater",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357987672/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Güicán, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Zonotrichia capensis",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/357987723/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Güicán, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Passiflora mixta",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/358016978/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Güicán, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Lourteigia stoechadifolia",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/358017407/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Güicán, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Miconia salicifolia",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/358018007/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Güicán, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Vallea stipularis",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/358024855/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Güicán, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Deconica coprophila",
+                "tipo": "Fungi",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/358243958/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Garagoa, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Sobralia ruckeri",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/358302067/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Garagoa, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Comparettia macroplectron",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/358302834/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Garagoa, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Eryngium humile",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/358409712/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Güicán, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Castilleja paramensis",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/358422659/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Güicán, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Drymonia teuscheri",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/358553344/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Garagoa, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Coeligena torquata",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/358569973/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Garagoa, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Maxillaria lepidota",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/358573261/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Garagoa, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Senecio niveoaureus",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/358577349/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Güicán, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Ocotea pedicellata",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/358626971/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Boyacá, CO"
+            },
+            {
+                "nombre": "Andea multinervis",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/358624065/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Pachavita, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Coragyps atratus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/358632501/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Carrera 4, El Cocuy, Boyacá, CO"
+            },
+            {
+                "nombre": "Tillandsia suescana",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/358783336/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Boyacá, CO"
+            },
+            {
+                "nombre": "Tillandsia denudata",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/358783832/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "El Cocuy, El Cocuy, Boyacá, CO"
+            },
+            {
+                "nombre": "Vanessa carye",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/358912091/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Carrera 10, Villa de Leyva, Boyacá, CO"
+            },
+            {
+                "nombre": "Ipomoea indica",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/358913497/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Carrera 10, Villa de Leyva, Boyacá, CO"
+            },
+            {
+                "nombre": "Perisama diotima",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/358916732/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Garagoa, Garagoa, Boyacá, CO"
+            },
+            {
+                "nombre": "Oxyrhopus leucomelas",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/358918453/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Garagoa, Garagoa, Boyacá, CO"
+            },
+            {
+                "nombre": "Setophaga fusca",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/358967141/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Garagoa, Garagoa, Boyacá, CO"
+            },
+            {
+                "nombre": "Mecardonia procumbens",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/359013935/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Villa de Leyva"
+            },
+            {
+                "nombre": "Pleurothallis crocodiliceps",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/359015512/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Arcabuco"
+            },
+            {
+                "nombre": "Rhinella horribilis",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/359073182/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Togüí, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Bejaria resinosa",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/359215213/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Villa de Leyva, Villa de Leyva, Boyacá, CO"
+            },
+            {
+                "nombre": "Dryadella lilliputiana",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/359165606/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Villa de Leyva"
+            },
+            {
+                "nombre": "Patagioenas fasciata",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/360346680/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Villa de Leyva, Villa de Leyva, Boyacá, CO"
+            },
+            {
+                "nombre": "Erinnyis obscura",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/360455003/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Villa de Leyva, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Erigeron karvinskianus",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/360700943/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Puente de Calicanto, Monguí, Boyacá, CO"
+            },
+            {
+                "nombre": "Equisetum giganteum",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/360723661/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Biopark Guatika, Tibasosa, Boyacá, CO"
+            },
+            {
+                "nombre": "Eryngium humboldtii",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/360884040/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Mongua, Mongua, Boyacá, CO"
+            },
+            {
+                "nombre": "Galium hypocarpium",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/360888413/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Camino de la Laguna, Mongua, Boyacá, CO"
+            },
+            {
+                "nombre": "Orthrosanthus chimboracensis",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/360890629/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Camino de la Laguna, Mongua, Boyacá, CO"
+            },
+            {
+                "nombre": "Saltator olivascens",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/360896595/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Villa de Leyva, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Acaena elongata",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361006471/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Mongua, Mongua, Boyacá, CO"
+            },
+            {
+                "nombre": null,
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361007479/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Laguna Negra, Mongua, Boyacá, CO"
+            },
+            {
+                "nombre": "Asplenium castaneum",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361008067/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Boyacá, CO"
+            },
+            {
+                "nombre": "Polystichum orbiculatum",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361008535/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Mongua, Mongua, Boyacá, CO"
+            },
+            {
+                "nombre": "Equisetum bogotense",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361008926/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Camino de la Laguna, Mongua, Boyacá, CO"
+            },
+            {
+                "nombre": "Sabazia trianae",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361009560/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Laguna Negra, Mongua, Boyacá, CO"
+            },
+            {
+                "nombre": "Trifolium repens",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361047339/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Laguna Negra, Mongua, Boyacá, CO"
+            },
+            {
+                "nombre": "Kinosternon leucostomum",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361086419/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Barbosa, Barbosa, Santander, CO"
+            },
+            {
+                "nombre": "Kinosternon leucostomum",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361086936/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Barbosa, Barbosa, Santander, CO"
+            },
+            {
+                "nombre": "Trifolium pratense",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361166976/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Vía Duitama, Sotaquirá, Boyacá, CO"
+            },
+            {
+                "nombre": "Tillandsia recurvata",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361168124/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Carrera 4A, Iza, Boyacá, CO"
+            },
+            {
+                "nombre": "Apis mellifera",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361168790/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Calle 4, Iza, Boyacá, CO"
+            },
+            {
+                "nombre": "Oxalis latifolia",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361169185/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Calle 4, Iza, Boyacá, CO"
+            },
+            {
+                "nombre": "Harmonia axyridis",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361178379/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Tibasosa, Tibasosa, Boyacá, CO"
+            },
+            {
+                "nombre": "Sphaenognathus armatus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361179870/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Mongua, Mongua, Boyacá, CO"
+            },
+            {
+                "nombre": "Rubus acanthophyllos",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361185090/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Mongua, Mongua, Boyacá, CO"
+            },
+            {
+                "nombre": "Espeletia boyacensis",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361187337/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Vía a La Laguna Negra, Mongua, Boyacá, CO"
+            },
+            {
+                "nombre": "Pipra filicauda",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361428123/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "San Roque, Ubalá, Cundinamarca, CO"
+            },
+            {
+                "nombre": "Chloropetalum denticulatum",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361544097/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Pauna, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Aotus griseimembra",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361577533/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Colombia"
+            },
+            {
+                "nombre": "Ipomoea indica",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361999049/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Macanal"
+            },
+            {
+                "nombre": "Comparettia macroplectron",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361998851/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Macanal, CO-BY, CO"
+            },
+            {
+                "nombre": "Urbanus proteus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361999117/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Macanal"
+            },
+            {
+                "nombre": "Papilio thoas",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/361999648/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Macanal"
+            },
+            {
+                "nombre": "Espeletia glandulosa",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/362443086/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Paipa - Palermo, Paipa, Boyacá, CO"
+            },
+            {
+                "nombre": "Ricinus communis",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/362443449/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Gachantivá, CO-BY, CO"
+            },
+            {
+                "nombre": "Diglossa sittoides",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/363044095/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Ramiriquí, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Sobralia ruckeri",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/363583393/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Chivor, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Atractus elaps",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/363585154/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Santa María, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Leiothlypis peregrina",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/364238935/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Gachantivá, Boyacá, Colombia"
+            },
+            {
+                "nombre": null,
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/364239420/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Gachantivá, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Bolax meyeri",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/364239506/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Gachantivá, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Geothlypis philadelphia",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/364240086/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Moniquirá, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Mniotilta varia",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/364240199/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Moniquirá, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Meriania speciosa",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/368175315/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Chiquinquirá, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Meriania speciosa",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/368175321/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Chiquinquirá, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Toxicodendron striatum",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/368175651/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Boyacá, Colombia"
+            },
+            {
+                "nombre": "Enallagma civile",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/375926375/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Pozos azules (Villa de Leyva), Villa de Leyva, Boyacá, CO"
+            },
+            {
+                "nombre": "Linochilus schultzii",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/384363980/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Siachoque, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Papilio polyxenes",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/386689413/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "La Estancia El Roble, Tunja, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Amastus thalassina",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/387269545/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Tunja, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Golofa eacus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/362262943/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Curi Playa, Villa de Leyva, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Columba livia",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/369609254/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Tunja, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Zenaida auriculata",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/367201571/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Tunja, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Catonephele chromis",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/364087364/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Garagoa, Garagoa, Boyacá, CO"
+            },
+            {
+                "nombre": "Erinnyis ello",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/364279069/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Calle 50, Tunja, Boyacá, CO"
+            },
+            {
+                "nombre": null,
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/364963044/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Jardín Botánico Los Aguacos"
+            },
+            {
+                "nombre": "Epidendrum mamapachae",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/366144332/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Garagoa, Garagoa, Boyacá, CO"
+            },
+            {
+                "nombre": "Dendropsophus molitor",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/366474918/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Aquitania, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Mucuna urens",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/366496237/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "56, Macanal, Boyacá, CO"
+            },
+            {
+                "nombre": "Zanthoxylum melanostictum",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/366732215/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Garagoa, Boyacá, Colombia"
+            },
+            {
+                "nombre": "Espeletia glandulosa",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/367243055/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Villa de Leyva, Villa de Leyva, Boyacá, CO"
+            },
+            {
+                "nombre": "Elleanthus myrosmatis",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/367667777/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Garagoa, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Syrigma sibilatrix",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/367677919/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Garagoa, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Maxillaria graminifolia",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/367955753/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Garagoa, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Persea mutisii",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/367959363/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Garagoa, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Maxillaria aggregata",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/367971853/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Garagoa, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Scaphyglottis aurea",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/367969750/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Garagoa, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Lepanthes wageneri",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/368002825/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Garagoa, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Epidendrum schlimii",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/368003103/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Garagoa, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Cuphea racemosa",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/368006925/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Garagoa, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Sobralia ruckeri",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/368008059/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Garagoa, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Begonia ferruginea",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/368008283/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Garagoa, Boyaca, Colombia"
+            },
+            {
+                "nombre": "Sturnella magna",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/368012506/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Garagoa, Boyaca, Colombia"
+            },
+            {
+                "nombre": null,
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/368025198/original.jpg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Parque Nacional Natural el Cocuy, Güicán, Boyacá, CO"
+            },
+            {
+                "nombre": "Ara macao",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/368262551/original.jpeg",
+                "ubicacion": "Boyacá",
+                "ciudad": "Boyacá, CO"
+            }
+        ],
+        "type_count": {
+            "Animalia": 157,
+            "Plantae": 142,
+            "Fungi": 1
+        },
+        "image_count": 283,
+        "unique_species_count": 233
+    },
+    "Cundinamarca": {
+        "species": [
+            {
+                "nombre": "Podalia amarga",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/343919356/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "45, Puerto Salgar, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Sicalis flaveola",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/348441224/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Guayabal de Síquima, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Philophyllia guttulata",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/343891834/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Carrera 7 Sur # 10-75, Guaduas, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Tropaeolum majus",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/343945300/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Subachoque, CO-CU, CO"
+            },
+            {
+                "nombre": "Trifolium repens",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/343945323/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Subachoque, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Baccharis latifolia",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/343945363/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Tabio, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Ancognatha scarabaeoides",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/343945665/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Zipaquirá, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Micrurus mipartitus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/343981873/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima"
+            },
+            {
+                "nombre": "Myiotheretes striaticollis",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/343999131/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Facatativa, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Sporathraupis cyanocephala",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344000147/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Facatativa, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Guettarda dependens",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344000783/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Facatativa, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Cyclocephala amazona",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344014723/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Caney Alto, Restrepo, Meta, CO"
+            },
+            {
+                "nombre": "Syngamia florella",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344014751/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Caney Alto, Restrepo, Meta, CO"
+            },
+            {
+                "nombre": "Eulepidotis vincentiata",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344014949/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Caney Alto, Restrepo, Meta, CO"
+            },
+            {
+                "nombre": "Marasmius haematocephalus",
+                "tipo": "Fungi",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344121922/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "El Vergel, Anapoima, Département de Cundinamarca, CO"
+            },
+            {
+                "nombre": "Sicalis flaveola",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344167027/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Anapoima"
+            },
+            {
+                "nombre": "Sicalis flaveola",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344167187/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Anapoima"
+            },
+            {
+                "nombre": "Anadia bogotensis",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344173763/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Cundinamarca, CO"
+            },
+            {
+                "nombre": "Fernandezia sanguinea",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344180719/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "J7HG+JQ Sendero de los sentidos, Fómeque, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Coprinus comatus",
+                "tipo": "Fungi",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344184687/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Sauzalito, Teusaquillo, Bogotá, Bogota, Colombia"
+            },
+            {
+                "nombre": "Nycticorax nycticorax",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344187325/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Parque de los Novios, Av José Celestino Mutis #45-10, Bogotá, Colombia"
+            },
+            {
+                "nombre": "Phalacrocorax brasilianus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344187773/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Parque de los Novios, Av José Celestino Mutis #45-10, Bogotá, Colombia"
+            },
+            {
+                "nombre": "Thecadactylus rapicauda",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344188314/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "La Mesa, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Atractus werneri",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344188984/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "La Mesa, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Stagmomantis parvidentata",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344192037/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "San Antonio, La Vega, Cundinamarca, CO"
+            },
+            {
+                "nombre": "Chlorida festiva",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344193005/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "El Vergel, Anapoima, Cundinamarca, CO"
+            },
+            {
+                "nombre": "Psilopygida apollinairei",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344208375/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Caney Alto, Restrepo, Meta, CO"
+            },
+            {
+                "nombre": "Streptoprocne zonaris",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344205914/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "San Jerónimo, Nilo, Cundinamarca, CO"
+            },
+            {
+                "nombre": "Euphonia laniirostris",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344210316/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Honda, Tolima, Colombia"
+            },
+            {
+                "nombre": "Eulepidotis micca",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344214173/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Caney Alto, Restrepo, Meta, CO"
+            },
+            {
+                "nombre": "Eulepidotis julianata",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344214279/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Caney Alto, Restrepo, Meta, CO"
+            },
+            {
+                "nombre": "Chironius exoletus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344218038/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima"
+            },
+            {
+                "nombre": "Alpaida variabilis",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344301279/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "DG 33A Sur - KR 10 E, Bogotá, Colombia"
+            },
+            {
+                "nombre": "Telipogon falcatus",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344309215/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "J7HG+JQ Sendero de los sentidos, Fómeque, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Langsdorffia hypogaea",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344321475/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "El Curi, Choachí, Cundinamarca, CO"
+            },
+            {
+                "nombre": "Thunbergia alata",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344342485/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "El Gaco, Bogotá, Bogotá, CO"
+            },
+            {
+                "nombre": "Latrodectus geometricus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344369305/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima"
+            },
+            {
+                "nombre": "Calephelis laverna",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344369736/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Acromis sparsa",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344370184/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Emilia fosbergii",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344370945/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Danaus gilippus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344372072/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Dendrocygna autumnalis",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344455179/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Humedal Capellanía, Bogotá, Colombia"
+            },
+            {
+                "nombre": "Chrysomus icterocephalus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344455196/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Humedal Capellanía, Bogotá, Colombia"
+            },
+            {
+                "nombre": "Chrysomus icterocephalus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344382410/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Humedal Capellanía, Bogotá, Colombia"
+            },
+            {
+                "nombre": "Oxyura ferruginea",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344455476/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Humedal Capellanía, Bogotá, Colombia"
+            },
+            {
+                "nombre": "Gallinula chloropus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344382459/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Humedal Capellanía, Bogotá, Colombia"
+            },
+            {
+                "nombre": "Fulica americana",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344456657/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Humedal Capellanía, Bogotá, Colombia"
+            },
+            {
+                "nombre": "Quiscalus lugubris",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344455123/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Humedal Capellanía, Bogotá, Colombia"
+            },
+            {
+                "nombre": "Cavia aperea",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344382498/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Humedal Capellanía, Bogotá, Colombia"
+            },
+            {
+                "nombre": "Tringa solitaria",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344382513/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Humedal Capellanía, Bogotá, Colombia"
+            },
+            {
+                "nombre": "Mimus gilvus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344455228/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Humedal Capellanía, Bogotá, Colombia"
+            },
+            {
+                "nombre": "Piranga rubra",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344382527/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Humedal Capellanía, Bogotá, Colombia"
+            },
+            {
+                "nombre": "Tyrannus melancholicus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344382544/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Humedal Capellanía, Bogotá, Colombia"
+            },
+            {
+                "nombre": "Setophaga petechia",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344455008/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Humedal Capellanía, Bogotá, Colombia"
+            },
+            {
+                "nombre": "Anadia bogotensis",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344395916/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Cundinamarca, CO"
+            },
+            {
+                "nombre": "Strymon mulucha",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344399825/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Siproeta stelenes",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344400382/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Ascalapha odorata",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344402701/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Caney Alto, Restrepo, Meta, CO"
+            },
+            {
+                "nombre": "Syngamia florella",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344402944/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Caney Alto, Restrepo, Meta, CO"
+            },
+            {
+                "nombre": "Glyphodes sibillalis",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344403004/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Caney Alto, Restrepo, Meta, CO"
+            },
+            {
+                "nombre": "Elanus leucurus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344456031/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Humedal Capellanía, Bogotá, Colombia"
+            },
+            {
+                "nombre": "Chrysomus icterocephalus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344456032/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Humedal Capellanía, Bogotá, Colombia"
+            },
+            {
+                "nombre": "Spatula discors",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344456040/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Humedal Capellanía, Bogotá, Colombia"
+            },
+            {
+                "nombre": "Spatula discors",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344456045/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Humedal Capellanía, Bogotá, Colombia"
+            },
+            {
+                "nombre": "Bocconia frutescens",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344456647/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Vereda Florida, Funza, Cundinamarca, CO"
+            },
+            {
+                "nombre": "Passiflora tarminiana",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344482994/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Camino Al Parque De La Florida, Cota, Cundinamarca, CO"
+            },
+            {
+                "nombre": "Streptosolen jamesonii",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344483019/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Camino Al Parque De La Florida, Cota, Cundinamarca, CO"
+            },
+            {
+                "nombre": "Cyrtochilum auropurpureum",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344503268/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Guasca, Cundinamarca, Colômbia"
+            },
+            {
+                "nombre": "Altopedaliodes nebris",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344504700/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Guasca, Cundinamarca, Colômbia"
+            },
+            {
+                "nombre": "Idioneurula erebioides",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344504829/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Guasca, Cundinamarca, Colômbia"
+            },
+            {
+                "nombre": null,
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344505219/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Guasca, Cundinamarca, Colômbia"
+            },
+            {
+                "nombre": "Syzygium paniculatum",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344512565/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Tabio, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Mimus gilvus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344512668/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Tabio, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Persicaria nepalensis",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344547543/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Vanguardia, Guayabetal, Cundinamarca, CO"
+            },
+            {
+                "nombre": "Lycopodium clavatum",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344547665/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Vanguardia, Guayabetal, Cundinamarca, CO"
+            },
+            {
+                "nombre": "Histiopteris incisa",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344550593/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Vanguardia, Guayabetal, Cundinamarca, CO"
+            },
+            {
+                "nombre": "Corydalus peruvianus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344566633/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "San Juan, La Vega, Cundinamarca, CO"
+            },
+            {
+                "nombre": "Turdus fuscater",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344623722/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Sopo, Sopó, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Passiflora vitifolia",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344634739/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "San Antonio, La Vega, Cundinamarca, CO"
+            },
+            {
+                "nombre": "Tecoma stans",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346752448/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Avenida Calle 116, Bogotá, Bogotá, CO"
+            },
+            {
+                "nombre": "Ficus elastica",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344657257/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Calle 141A, Bogotá, Bogotá, CO"
+            },
+            {
+                "nombre": "Porphyrio martinica",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344661908/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Emaus, Chapinero, Bogotá, Bogota, Colombia"
+            },
+            {
+                "nombre": "Coprinellus disseminatus",
+                "tipo": "Fungi",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344662046/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "RNSC Umbral Cultural Horizontes"
+            },
+            {
+                "nombre": "Tecomaria capensis",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344662120/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "RNSC Umbral Cultural Horizontes"
+            },
+            {
+                "nombre": "Canis lupus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344678347/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "San Juan, La Vega, Cundinamarca, CO"
+            },
+            {
+                "nombre": "Pachycoris torridus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344683031/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Butorides striata",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344687317/original.png",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Santa Maria del Lago, Zona 3, Bogotá, Bogota, Colombia"
+            },
+            {
+                "nombre": "Chrysomus icterocephalus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344786961/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Laguna de La Herrera, Mosquera, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Rupornis magnirostris",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344786518/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Mosquera, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Gallinula chloropus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344716985/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Mosquera, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Toxotoma flavofasciata",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344786777/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Laguna de La Herrera, Mosquera, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Mimus gilvus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344786932/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Laguna de La Herrera, Mosquera, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Athesis clearista",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344741622/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "5RR4+RV, Pacho, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Lycianthes lycioides",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344786746/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Laguna de La Herrera, Mosquera, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Opuntia soederstromiana",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344786752/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Laguna de La Herrera, Mosquera, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Phimosus infuscatus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344796382/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Laguna de La Herrera, Mosquera, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Zenaida auriculata",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344796390/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Laguna de La Herrera, Mosquera, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Zonotrichia capensis",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344796388/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Laguna de La Herrera, Mosquera, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Cavia aperea",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344796655/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Laguna de La Herrera, Mosquera, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Dione vanillae",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344799684/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Salix humboldtiana",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344805242/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Aposentos, Simijaca, Cundinamarca, CO"
+            },
+            {
+                "nombre": "Atractus crassicaudatus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344809716/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Laguna de La Herrera, Mosquera, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Tillandsia usneoides",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344809712/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Laguna de La Herrera, Mosquera, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Potentilla indica",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344845659/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Parque Natural Chicaque, San Antonio del Tequendama, Cundinamarca, CO"
+            },
+            {
+                "nombre": "Begonia foliosa",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344848897/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Parque Natural Chicaque, San Antonio del Tequendama, Cundinamarca, CO"
+            },
+            {
+                "nombre": "Dione glycera",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344869725/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Santa Fé, Bogotá, Colombia"
+            },
+            {
+                "nombre": "Ardea alba",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344873188/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Briceño, Sopó, Cundinamarca, Kolumbien"
+            },
+            {
+                "nombre": "Ardea alba",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344873582/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Briceño, Sopó, Cundinamarca, Kolumbien"
+            },
+            {
+                "nombre": "Ardea alba",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344873678/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Chía, Cundinamarca, Kolumbien"
+            },
+            {
+                "nombre": "Historis odius",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344879274/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "5RR4+RV, Pacho, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Bomarea multiflora",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344891097/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Guayabetal, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Limenitis iphiclus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344891095/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Guayabetal, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Hermeuptychia hermes",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344891104/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Guayabetal, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Cipuropsis capituligera",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344891112/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Guayabetal, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Heliconia hirsuta",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344891124/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Guayabetal, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Colibri cyanotus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344891594/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Parque de los Novios, Av José Celestino Mutis #45-10, Bogotá, Colombia"
+            },
+            {
+                "nombre": "Colibri coruscans",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344892852/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Parque de los Novios, Av José Celestino Mutis #45-10, Bogotá, Colombia"
+            },
+            {
+                "nombre": "Troglodytes aedon",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344893288/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Parque de los Novios, Av José Celestino Mutis #45-10, Bogotá, Colombia"
+            },
+            {
+                "nombre": "Pyrocephalus rubinus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344918608/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Guataquí, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Passiflora dawei",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344941051/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Thecla syllis",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344943922/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima"
+            },
+            {
+                "nombre": "Heliconius erato",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344945224/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Biblis hyperia",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344945434/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": null,
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/344961424/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Chaetocercus mulsant",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345103357/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Parque de los Novios, Av José Celestino Mutis #45-10, Bogotá, Colombia"
+            },
+            {
+                "nombre": "Borogonalia impressifrons",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345126528/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Usaquén, Bogotá, Bogota, Colombia"
+            },
+            {
+                "nombre": "Compsus canescens",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345141133/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Usaquén, Bogotá, Bogota, Colombia"
+            },
+            {
+                "nombre": "Urocerus gigas",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345157183/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "San José, Sesquilé, Cundinamarca, CO"
+            },
+            {
+                "nombre": "Gentiana sedifolia",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345193954/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Junín, Chingaza, CO-CU, CO"
+            },
+            {
+                "nombre": "Aragoa abietina",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345193971/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Junín, Chingaza, CO-CU, CO"
+            },
+            {
+                "nombre": "Grallaria alticola",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345196629/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Sumapaz, Bogotá, Colombia"
+            },
+            {
+                "nombre": "Steatoda nobilis",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345216150/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Poveda Ii, Tenjo, Cundinamarca, CO"
+            },
+            {
+                "nombre": "Capsicum pubescens",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345239015/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Jardín Dodoísta, Bogotá, Colombia"
+            },
+            {
+                "nombre": "Dione glycera",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345293530/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Avenida Carrera 28, Bogotá, Bogotá, CO"
+            },
+            {
+                "nombre": "Compsibidion mysticum",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345319841/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima"
+            },
+            {
+                "nombre": "Comparettia falcata",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345319918/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Utetheisa ornatrix",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345320026/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima"
+            },
+            {
+                "nombre": "Greta andromica",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345320830/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Hermeuptychia hermes",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345320971/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Microctenochira sertata",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345321169/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima"
+            },
+            {
+                "nombre": null,
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345321607/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Danaus gilippus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345321770/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Dynamine tithia",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345322264/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima"
+            },
+            {
+                "nombre": "Dynamine mylitta",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345322405/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima"
+            },
+            {
+                "nombre": "Hamadryas februa",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345322493/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Emesis fatima",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345323803/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima"
+            },
+            {
+                "nombre": "Hemiargus hanno",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345323939/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Dryas iulia",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345324162/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima"
+            },
+            {
+                "nombre": "Antiblemma nitidaria",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345324364/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Pycnopalpa bicordata",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345324509/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima"
+            },
+            {
+                "nombre": "Forpus conspicillatus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345400462/original.png",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Santa Maria del Lago, Zona 3, Bogotá, Bogota, Colombia"
+            },
+            {
+                "nombre": "Dendropsophus molitor",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345403362/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Calle 18 sur # 25-03 Este, Bogotá, Colombia"
+            },
+            {
+                "nombre": "Machetornis rixosa",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345444786/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "La Calera, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Josa keyserlingi",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345464238/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Sagrado Corazon, Usaquén, Bogotá, Bogota, Colombia"
+            },
+            {
+                "nombre": "Phimosus infuscatus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345520393/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Melgar, Tolima, Colombia"
+            },
+            {
+                "nombre": "Caria mantinea",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345575055/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima"
+            },
+            {
+                "nombre": "Historis odius",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345580962/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima"
+            },
+            {
+                "nombre": "Marpesia berania",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345587591/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Mimoides euryleon",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345587726/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Heraclides pallas",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345587797/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima"
+            },
+            {
+                "nombre": "Dryas iulia",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345587863/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima"
+            },
+            {
+                "nombre": "Dryas iulia",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345588269/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima"
+            },
+            {
+                "nombre": "Papilio thoas",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345588337/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima"
+            },
+            {
+                "nombre": "Phobetron hipparchia",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345588887/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Siproeta stelenes",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345589315/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima"
+            },
+            {
+                "nombre": "Euptychoides saturnus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345589562/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Supata, Supatá, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Passiflora cuspidifolia",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345589748/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Supata, Supatá, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Centruroides edwardsii",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345600255/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Carrera 2, Ambalema, Tolima, CO"
+            },
+            {
+                "nombre": "Ageratina asclepiadea",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345591623/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "San Isidro, La Calera, Cundinamarca, CO"
+            },
+            {
+                "nombre": "Cyanocorax violaceus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345618444/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Restrepo, Meta, Colombia"
+            },
+            {
+                "nombre": "Phimosus infuscatus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345618445/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Restrepo, Meta, Colombia"
+            },
+            {
+                "nombre": "Mesembrinibis cayennensis",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345618450/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Restrepo, Meta, Colombia"
+            },
+            {
+                "nombre": "Stilpnia cayana",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345618568/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Restrepo, Meta, Colombia"
+            },
+            {
+                "nombre": "Sakesphorus canadensis",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345618584/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Restrepo, Meta, Colombia"
+            },
+            {
+                "nombre": "Thryophilus rufalbus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345618589/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Restrepo, Meta, Colombia"
+            },
+            {
+                "nombre": "Chionomesa fimbriata",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345618594/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Restrepo, Meta, Colombia"
+            },
+            {
+                "nombre": "Falco columbarius",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345658947/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Jardín Dodoísta, Bogotá, Colombia"
+            },
+            {
+                "nombre": null,
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345664175/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Melgar, Tolima, Colombia"
+            },
+            {
+                "nombre": "Passiflora gustaviana",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345757752/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "La Maquina, Pacho, Cundinamarca, CO"
+            },
+            {
+                "nombre": "Pyrocephalus rubinus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345664807/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Melgar, Tolima, Colombia"
+            },
+            {
+                "nombre": "Numida meleagris",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345665454/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Melgar, Tolima, Colombia"
+            },
+            {
+                "nombre": "Galium hypocarpium",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345673376/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Tabio, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Impatiens sodenii",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345673377/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Tabio, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Physalis peruviana",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345673379/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Tabio, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Chusquea scandens",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345673391/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Tabio, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Pteridium esculentum",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345673389/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Tabio, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Pinus patula",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345673387/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Tabio, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Bocconia frutescens",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345673398/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Tabio, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Palicourea lineariflora",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345673410/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Tabio, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Zonotrichia capensis",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345673412/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Tabio, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Zonotrichia capensis",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345673413/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Tabio, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Stevia lucida",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345673417/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Tabio, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Palicourea angustifolia",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345673419/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Tabio, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Epidendrum arachnoglossum",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345673422/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Tabio, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Tillandsia incarnata",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345673424/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Tabio, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Chaetogastra mollis",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345733350/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "San Antonio, La Vega, Cundinamarca, CO"
+            },
+            {
+                "nombre": "Glossoloma herthae",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345733475/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "San Antonio, La Vega, Cundinamarca, CO"
+            },
+            {
+                "nombre": "Passiflora longipes",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345733917/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "San Antonio, La Vega, Cundinamarca, CO"
+            },
+            {
+                "nombre": "Miconia miocarpa",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345734357/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Cundinamarca, CO"
+            },
+            {
+                "nombre": "Drimys granadensis",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345735061/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "San Antonio, La Vega, Cundinamarca, CO"
+            },
+            {
+                "nombre": "Thibaudia floribunda",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345735324/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "San Antonio, La Vega, Cundinamarca, CO"
+            },
+            {
+                "nombre": "Malacoptila mystacalis",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345757903/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "El Gavilán, Pacho, Cundinamarca, CO"
+            },
+            {
+                "nombre": "Setophaga cerulea",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345758171/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "La Maquina, Pacho, Cundinamarca, CO"
+            },
+            {
+                "nombre": "Eugoniella sapota",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345773490/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima"
+            },
+            {
+                "nombre": "Samea ecclesialis",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345774816/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima"
+            },
+            {
+                "nombre": "Prenesta rubrocinctalis",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345775599/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima"
+            },
+            {
+                "nombre": "Macrosoma rubedinaria",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345775979/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Aclytia heber",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345776342/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Miconia theizans",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345837449/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "San Juan de Rio Seco, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Cupressus lusitanica",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345915112/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Peñas Blancas, Quipile, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Erythrina rubrinervia",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345891963/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Poveda Ii, Tenjo, Cundinamarca, CO"
+            },
+            {
+                "nombre": "Rupornis magnirostris",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345869541/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Cundinamarca, CO"
+            },
+            {
+                "nombre": "Datura stramonium",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345882769/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Calle 35 No. 3-50 y Calle 95B No. 12c-43 Este, Suba, Bogotá, Colombia"
+            },
+            {
+                "nombre": "Coragyps atratus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345883625/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Cundinamarca, CO"
+            },
+            {
+                "nombre": "Pristimantis bogotensis",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346796292/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "CL 28B Sur - KR 12C Este, San Cristóbal, Bogotá, Colombia"
+            },
+            {
+                "nombre": "Ascalapha odorata",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345886845/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Costa Azul, Suba, Bogotá, Bogota, Colombia"
+            },
+            {
+                "nombre": "Spinus spinescens",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345886843/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Costa Azul, Suba, Bogotá, Bogota, Colombia"
+            },
+            {
+                "nombre": "Mimus gilvus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345886848/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Costa Azul, Suba, Bogotá, Bogota, Colombia"
+            },
+            {
+                "nombre": "Harmonia axyridis",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345886847/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Costa Azul, Suba, Bogotá, Bogota, Colombia"
+            },
+            {
+                "nombre": "Porphyrio martinica",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345914245/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Rincón del Chico, Localidad de Chapinero, Bogotá, Colombia"
+            },
+            {
+                "nombre": "Chrysocale ignita",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345923804/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Vía Facatativá - El Vino, Facatativá, Cundinamarca, CO"
+            },
+            {
+                "nombre": "Tyrannus melancholicus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/345937536/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Cundinamarca, CO"
+            },
+            {
+                "nombre": "Sporophila intermedia",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346047134/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Restrepo, Meta, Colombia"
+            },
+            {
+                "nombre": "Thraupis episcopus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346047115/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Restrepo, Meta, Colombia"
+            },
+            {
+                "nombre": "Forpus conspicillatus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346047160/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Restrepo, Meta, Colombia"
+            },
+            {
+                "nombre": "Melanerpes cruentatus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346047149/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Restrepo, Meta, Colombia"
+            },
+            {
+                "nombre": "Phacellodomus inornatus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346047177/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Restrepo, Meta, Colombia"
+            },
+            {
+                "nombre": "Cyanocorax violaceus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346047214/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Restrepo, Meta, Colombia"
+            },
+            {
+                "nombre": "Turdus ignobilis",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346047202/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Restrepo, Meta, Colombia"
+            },
+            {
+                "nombre": "Melanerpes cruentatus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346047221/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Restrepo, Meta, Colombia"
+            },
+            {
+                "nombre": "Pteroglossus castanotis",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346047225/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Restrepo, Meta, Colombia"
+            },
+            {
+                "nombre": "Machetornis rixosa",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346047307/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Restrepo, Meta, Colombia"
+            },
+            {
+                "nombre": "Sporophila intermedia",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346047237/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Restrepo, Meta, Colombia"
+            },
+            {
+                "nombre": "Nyctidromus albicollis",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346047287/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Restrepo, Meta, Colombia"
+            },
+            {
+                "nombre": "Myiarchus ferox",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346047315/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Restrepo, Meta, Colombia"
+            },
+            {
+                "nombre": "Bubulcus ibis",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346047308/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Restrepo, Meta, Colombia"
+            },
+            {
+                "nombre": "Pteroglossus castanotis",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346047336/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Restrepo, Meta, Colombia"
+            },
+            {
+                "nombre": "Thraupis episcopus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346047325/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Restrepo, Meta, Colombia"
+            },
+            {
+                "nombre": "Campylorhynchus turdinus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346047346/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Restrepo, Meta, Colombia"
+            },
+            {
+                "nombre": "Boana platanera",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346057954/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Sasaima, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": null,
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346071708/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": null,
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346072033/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Anolis heterodermus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346088537/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Pionono Natural Park, Sopo, Sopó, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Palicourea angustifolia",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346107719/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "El Dintel, La Vega, Cundinamarca, CO"
+            },
+            {
+                "nombre": "Buteo platypterus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346116610/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Vía Facatativá - El Vino, La Vega, Cundinamarca, CO"
+            },
+            {
+                "nombre": "Megascops choliba",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346121555/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima"
+            },
+            {
+                "nombre": "Pareuchaetes insulata",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346122592/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima"
+            },
+            {
+                "nombre": "Chlorida festiva",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346122769/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima"
+            },
+            {
+                "nombre": "Dendropsophus molitor",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346157548/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "La Violeta, Sopó, Cundinamarca, CO"
+            },
+            {
+                "nombre": "Panaeolus antillarum",
+                "tipo": "Fungi",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346160666/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "San Francisco, CO-CU, CO"
+            },
+            {
+                "nombre": "Taeniotes scalatus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346193506/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Pacho, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Pteridium esculentum",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346194211/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Pacho, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Castilleja arvensis",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346195096/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Pacho, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Monnina aestuans",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346195396/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Pacho, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Anas platyrhynchos",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346215162/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Laguna de Teusacá / El Verjón"
+            },
+            {
+                "nombre": "Smallanthus pyramidalis",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346239503/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Carrera 22, Bogotá, Bogotá, CO"
+            },
+            {
+                "nombre": "Comparettia falcata",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346294736/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Pacho"
+            },
+            {
+                "nombre": "Cavia aperea",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346298353/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Fontibón, Bogotá, Colombia"
+            },
+            {
+                "nombre": "Phytolacca bogotensis",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346298373/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Fontibón, Bogotá, Colombia"
+            },
+            {
+                "nombre": "Conium maculatum",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346298377/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Fontibón, Bogotá, Colombia"
+            },
+            {
+                "nombre": "Pontederia crassipes",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346300128/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Fontibón, Bogotá, Colombia"
+            },
+            {
+                "nombre": "Anolis tequendama",
+                "tipo": "Animalia",
+                "imagen": null,
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Usatama, Fusagasugá, Cundinamarca, CO"
+            },
+            {
+                "nombre": "Leptophobia aripa",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346417377/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Las Delicias del Carmen, Usaquén, Bogotá, Bogota, Colombia"
+            },
+            {
+                "nombre": "Podilymbus podiceps",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346423108/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Parque Metropolitano Simón Bolivar, Bogotá, Bogotá, CO"
+            },
+            {
+                "nombre": "Ardea alba",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346423397/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Parque Metropolitano Simón Bolivar, Bogotá, Bogotá, CO"
+            },
+            {
+                "nombre": "Castilleja fissifolia",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346437690/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Vía Sumapaz, Bogotá, Bogotá, CO"
+            },
+            {
+                "nombre": "Anthurium scandens",
+                "tipo": "Plantae",
+                "imagen": null,
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Tierranegra, Fusagasugá, Cundinamarca, CO"
+            },
+            {
+                "nombre": "Atractus werneri",
+                "tipo": "Animalia",
+                "imagen": null,
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Tierranegra, Fusagasugá, Cundinamarca, CO"
+            },
+            {
+                "nombre": "Corynaea crassa",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346475892/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Mancilla, Facatativá, Cundinamarca, CO"
+            },
+            {
+                "nombre": "Falco columbarius",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346476662/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Funza, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Falco peregrinus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346476505/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Cundinamarca, CO"
+            },
+            {
+                "nombre": "Columba livia",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346518118/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Tabio, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Neocalvia cayennensis",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346552010/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Anolaima, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Hesperocharis marchalii",
+                "tipo": "Animalia",
+                "imagen": null,
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Tierranegra, Fusagasugá, Cundinamarca, CO"
+            },
+            {
+                "nombre": "Leptoglossus macrophyllus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346579334/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Suba, Bogotá, Kolumbien"
+            },
+            {
+                "nombre": "Leptogium cyanescens",
+                "tipo": "Fungi",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346595891/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Pacho, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Herpothallon rubrocinctum",
+                "tipo": "Fungi",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346596075/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Pacho, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Tillandsia fendleri",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346597738/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Pacho, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Guzmania monostachia",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346597907/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Villagómez, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Atractus crassicaudatus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346619583/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Cajicá, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Hieronyma rufa",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346776756/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Cundinamarca, CO"
+            },
+            {
+                "nombre": null,
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346636739/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Chlosyne lacinia",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346637308/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima"
+            },
+            {
+                "nombre": "Apis mellifera",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346637507/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima"
+            },
+            {
+                "nombre": null,
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346638061/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Streptosolen jamesonii",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346639335/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "AC 20 - AK 1, Bogotá, Colombia"
+            },
+            {
+                "nombre": "Callianthe megapotamica",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346639345/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Santa Fe, Bogotá, Bogota, Colombia"
+            },
+            {
+                "nombre": "Thunbergia alata",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346639362/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Santa Fe, Bogotá, Bogota, Colombia"
+            },
+            {
+                "nombre": "Munnozia senecionidis",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346639429/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Taquilla Monserrate Teleférico, Bogotá, Colombia"
+            },
+            {
+                "nombre": "Vanellus chilensis",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346687493/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Institución Educativa Municipal San Juan Bautista de la Salle de Zipaquirá, Zipaquirá, Cundinamarca, CO"
+            },
+            {
+                "nombre": "Carcinophora americana",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346691017/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Pacho, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": null,
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346691183/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Pacho, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Rhynchospora nervosa",
+                "tipo": "Plantae",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346695512/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Pacho, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Rupornis magnirostris",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346718736/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Engativá, Bogotá, Colombia"
+            },
+            {
+                "nombre": "Eresia polina",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346727844/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima, Cundinamarca, Colombia"
+            },
+            {
+                "nombre": "Tmolus echion",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346728348/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Nocaima"
+            },
+            {
+                "nombre": "Spinus psaltria",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346731661/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Sauzalito, Teusaquillo, Bogotá, Bogota, Colombia"
+            },
+            {
+                "nombre": "Porphyrio martinica",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346747672/original.jpeg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Antiguo Country, Chapinero, Bogotá, Bogota, Colombia"
+            },
+            {
+                "nombre": "Elanus leucurus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346752477/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Avenida Carrera 55, Bogotá, Bogotá, CO"
+            },
+            {
+                "nombre": "Thraupis episcopus",
+                "tipo": "Animalia",
+                "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/346752610/original.jpg",
+                "ubicacion": "Cundinamarca",
+                "ciudad": "Transversal 60, Bogotá, Bogotá, CO"
+            }
+        ],
+        "type_count": {
+            "Animalia": 214,
+            "Plantae": 80,
+            "Fungi": 6
+        },
+        "image_count": 296,
+        "unique_species_count": 237
+    }
+}

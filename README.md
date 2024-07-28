@@ -51,13 +51,4 @@ La aplicación te permitirá:
 - Cambiar entre vistas detalladas de cada departamento.
 - Utilizar filtros para ajustar los datos mostrados en los gráficos y las imagenes.
 
-## Contribuciones
-
-Si deseas contribuir al proyecto, sigue estos pasos:
-
-1. Haz un fork del repositorio.
-2. Crea una rama nueva (`git checkout -b feature/nueva-funcionalidad`).
-3. Realiza tus cambios y haz commit (`git commit -am 'Añadir nueva funcionalidad'`).
-4. Sube tus cambios (`git push origin feature/nueva-funcionalidad`).
-5. Crea un nuevo Pull Request.
 

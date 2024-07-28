@@ -4,7 +4,7 @@
 <head>
     <meta charset='utf-8'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <title>Contacto</title>
+    <title>Estadísticas</title>
     <link rel="icon" href="../static/images/logo-biodiversity.png" type="image/x-icon">
     <meta name='viewport' content='width=device-width, initial-scale=1'>
 
@@ -15,18 +15,15 @@
 
     <!-- Links css -->
     <link rel="stylesheet" href="../static/css/style.css" asp-append-version="true" />
+    <link rel="stylesheet" href="../static/css/estadisticas.css" asp-append-version="true" />
 
-    <!-- Links leaflet -->
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
-
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <style>
         .navbar {
-            height: 56px; /* Ejemplo de altura de un navbar estándar */
+            height: 56px;
         }
 
         .fauna {
-            padding-top: 70px; /* Igual que la altura del navbar */
+            padding-top: 70px;
         }
     </style>
 </head>
@@ -34,8 +31,8 @@
 <body>
     <nav class="navbar navbar-expand-lg fixed-top">
         <div class="container-fluid">
-            <a class="navbar-brand" href="/"><img id="logo"
-                    src="../static/images/logo-biodiversity.png" alt="Biodiversidad" height="512px" width="512px"></a>
+            <a class="navbar-brand" href="/"><img id="logo" src="../static/images/logo-biodiversity.png"
+                    alt="Biodiversidad" height="512px" width="512px"></a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText"
                 aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -43,8 +40,7 @@
             <div class="collapse navbar-collapse" id="navbarText">
                 <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link active inicio " aria-current="page"
-                            href="/">Inicio</a>
+                        <a class="nav-link active inicio " aria-current="page" href="/">Inicio</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link active" href="/ecosistema">Ecosistemas</a>
@@ -53,7 +49,7 @@
                         <a class="nav-link active" href="/especies">Especies</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="/estadisticas">Estadisticas</a>
+                        <a class="nav-link active" href="/estadisticas">Estadísticas</a>
                     </li>
                 </ul>
             </div>
@@ -61,22 +57,57 @@
     </nav>
 
     <section class="container-fluid fauna">
-        <div class=" text-center container-ecosistemas ">
+        <div class="text-center container-ecosistemas">
             <div id="container-titulo-eco">
-                <h2 id="ecosistema">Contacto</h2>
+                <h2 id="ecosistema">Estadísticas</h2>
             </div>
             <div id="container-subtitulo-eco">
-                <p></p>
+                <p>Comparación de especies entre Boyacá y Cundinamarca</p>
             </div>
         </div>
-        <br><br>
-        
-
-        <br>
-        <br>
     </section>
     <br>
+    <br>
 
+    <!-- Contenido que cambia -->
+
+    <div class="container">
+        <div class="row mb-4">
+            <div class="col-md-6">
+                <canvas id="chartBoyaca"></canvas>
+            </div>
+            <div class="col-md-6">
+                <canvas id="chartCundinamarca"></canvas>
+            </div>
+        </div>
+        <div class="row mb-4">
+            <div class="col-md-6">
+                <canvas id="chartPastelBoyaca"></canvas>
+            </div>
+            <div class="col-md-6">
+                <canvas id="chartPastelCundinamarca"></canvas>
+            </div>
+        </div>
+        <div class="row mb-4">
+            <div class="col-md-6">
+                <canvas id="chartLineas"></canvas>
+            </div>
+            <div class="col-md-6">
+                <canvas id="chartArea"></canvas>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <canvas id="chartDispersión"></canvas>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Fin contenido que cambia -->
+
+    <br>
+    <br>
     <footer class="footer mt-auto py-3" style="background-color: #1d6e0d40;">
         <div class="container text-center">
             <span>©2024 Sumergerte en la Biodiversidad. Todos los derechos reservados.</span>
@@ -86,13 +117,8 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
         crossorigin="anonymous"></script>
-
-    <!-- Script leaflet -->
-    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
-
-    <!-- Scripts -->
-    <script src="../static/js/index.js"></script>
-    <script src="../static/js/index.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="../static/js/estadisticas.js"></script>
 </body>
 
 </html>

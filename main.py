@@ -70,10 +70,45 @@ async def especies(request: Request):
     
     return templates.TemplateResponse("especies.html", {"request": request, "especies_cundinamarca": especies_cundinamarca, "especies_boyaca": especies_boyaca})
 
+@app.get("/ecosistema", response_class=HTMLResponse)
+async def ecosistemas(request: Request):
+    return templates.TemplateResponse("ecosistema.html", {"request":request})
+
+
 @app.get("/estadisticas", response_class=HTMLResponse)
 async def estadisticas(request: Request):
     return templates.TemplateResponse("estadisticas.html", {"request": request})
 
-@app.get("/ecosistema", response_class=HTMLResponse)
-async def ecosistemas(request: Request):
-    return templates.TemplateResponse("ecosistema.html", {"request":request})
+@app.get("/datos_comparacion", response_class=HTMLResponse)
+async def datos_comparacion(request: Request):
+    cundinamarca_json_path = 'static/data/cundinamarca_especies.json'
+    boyaca_json_path = 'static/data/boyaca_especies.json'
+    
+    especies_cundinamarca = []
+    especies_boyaca = []
+
+    if Path(cundinamarca_json_path).exists() and Path(cundinamarca_json_path).stat().st_size > 0:
+        with open(cundinamarca_json_path, 'r') as json_file:
+            try:
+                especies_cundinamarca = json.load(json_file)
+            except json.JSONDecodeError:
+                pass
+
+    if Path(boyaca_json_path).exists() and Path(boyaca_json_path).stat().st_size > 0:
+        with open(boyaca_json_path, 'r') as json_file:
+            try:
+                especies_boyaca = json.load(json_file)
+            except json.JSONDecodeError:
+                pass
+
+    # Preparar datos para la comparación
+    comparacion = {
+        "Boyaca": {
+            "species": especies_boyaca
+        },
+        "Cundinamarca": {
+            "species": especies_cundinamarca
+        }
+    }
+
+    return JSONResponse(content=comparacion)
